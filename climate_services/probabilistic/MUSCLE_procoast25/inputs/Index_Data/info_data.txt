@@ -1,0 +1,13 @@
+SAM : https://legacy.bas.ac.uk/met/gjma/sam.html
+NAO : https://www.ncdc.noaa.gov/teleconnections/nao/
+NINHO34 : https://psl.noaa.gov/data/correlation/nina34.data
+PDO : https://www.ncdc.noaa.gov/teleconnections/pdo/
+PNA : https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/month_pna_index2.shtml
+AO : https://www.cpc.ncep.noaa.gov/products/precip/CWlink/daily_ao_index/ao.shtml
+SOI : https://www.ncdc.noaa.gov/teleconnections/enso/soi
+OLR : https://www.ncdc.noaa.gov/teleconnections/enso/olr
+AMO : https://psl.noaa.gov/data/timeseries/AMO/
+SCAND : https://ftp.cpc.ncep.noaa.gov/wd52dg/data/indices/scand_index.tim
+NPI : https://climatedataguide.ucar.edu/climate-data/north-pacific-np-index-trenberth-and-hurrell-monthly-and-winter
+MEI : https://climatedataguide.ucar.edu/climate-data/multivariate-enso-index
+
