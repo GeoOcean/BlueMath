@@ -1,6 +1,6 @@
 {
     "name": "BlueMath",
-    "image": "geoocean/rocky8",
+    "image": "geoocean/rocky8:1.5",
     "customizations": {
         "vscode": {
             "settings": {
@@ -12,6 +12,5 @@
                 "ms-toolsai.datawrangler"
             ]
         }
-    },
-    "postCreateCommand": "bash .devcontainer/check_develop.sh"
+    }
 }
