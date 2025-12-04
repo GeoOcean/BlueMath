@@ -1,22 +1,32 @@
+from typing import Any, List, Optional
+
 import matplotlib.pyplot as plt
 import numpy as np
 import statsmodels.api as sm
+import xarray as xr
+from bluemath_tk.datamining.pca import PCA
 from scipy.stats import gaussian_kde
 from sklearn.model_selection import train_test_split
 
 
-def plot_pcs(pca, n_pcs):
+def plot_pcs(pca: PCA, n_pcs: int) -> None:
     """
-    Plots the principal components (PCs) from a PCA analysis.
+    Plot the principal components (PCs) from a PCA analysis.
 
-    Parameters:
-    - pca: The PCA object containing the principal components.
-    - n_pcs: The number of principal components to plot.
-
-    Returns:
-    None
+    Parameters
+    ----------
+    pca : PCA
+        The PCA object containing the principal components.
+    n_pcs : int
+        The number of principal components to plot.
     """
+
     fig, axs = plt.subplots(n_pcs, 1, figsize=(15, 5 * n_pcs))
+
+    # Handle case where n_pcs = 1 (axs becomes a single axis, not an array)
+    if n_pcs == 1:
+        axs = [axs]
+
     for i in range(n_pcs):
         pca.pcs.PCs.isel(n_component=i).plot(ax=axs[i], color="darkmagenta")
         axs[i].axhline(0, color="black", lw=1)
@@ -31,24 +41,27 @@ def plot_pcs(pca, n_pcs):
         )
 
 
-def plot_waves(waves):
+def plot_waves(waves: xr.Dataset) -> None:
     """
-    Plots the wave data.
+    Plot the wave data.
 
     This function creates a subplots figure and plots the wave data for each variable.
 
-    Returns:
-        None
+    Parameters
+    ----------
+    waves : xarray.Dataset
+        Dataset containing wave data variables.
     """
 
-    fig, axs = plt.subplots(
-        len(waves.data_vars.keys()), 1, figsize=(20, 4 * len(waves.data_vars.keys()))
-    )
+    n_vars = len(waves.data_vars.keys())
+    fig, axs = plt.subplots(n_vars, 1, figsize=(20, 4 * n_vars))
+
+    # Handle case where n_vars = 1 (axs becomes a single axis, not an array)
+    if n_vars == 1:
+        axs = [axs]
+
     for iv, var in enumerate(list(waves.data_vars.keys())):
-        try:
-            ax = axs[iv]
-        except IndexError:
-            ax = axs
+        ax = axs[iv]
 
         if var == "mwd":
             waves[var].plot(ax=ax, color="crimson", marker=".", lw=0, ms=1)
@@ -61,48 +74,65 @@ def plot_waves(waves):
         ax.set_ylim([waves[var].min(), waves[var].max()])
 
 
-def fit_plot_linear_model(X, Ys, keys=None, perc_train=0.8):
+def fit_plot_linear_model(
+    X: np.ndarray,
+    Ys: np.ndarray,
+    keys: Optional[List[str]] = None,
+    perc_train: float = 0.8,
+) -> List[Any]:
     """
-    Fits and plots linear regression models for multiple dependent variables.
+    Fit and plot linear regression models for multiple dependent variables.
 
-    Parameters:
-        X (array-like): The independent variable data.
-        Ys (array-like): The dependent variable data.
-        perc_train (float, optional): The percentage of data to use for training. Defaults to 0.8.
+    Parameters
+    ----------
+    X : np.ndarray
+        The independent variable data.
+    Ys : np.ndarray
+        The dependent variable data.
+    keys : list of str, optional
+        List of keys/names for the dependent variables. If None, default names
+        'Y0', 'Y1', etc. will be used.
+    perc_train : float, optional
+        The percentage of data to use for training. Default is 0.8.
 
-    Returns:
-        list: A list of fitted linear regression models.
+    Returns
+    -------
+    list
+        A list of fitted linear regression models (statsmodels OLS results objects).
 
+    Notes
+    -----
+    This function creates scatter plots showing actual vs predicted values for
+    the validation set, with density coloring using Gaussian KDE.
     """
+
     fig, axs = plt.subplots(1, Ys.shape[1], figsize=(7 * Ys.shape[1], 5))
 
-    MODELS = []
+    # Handle case where Ys.shape[1] = 1 (axs becomes a single axis, not an array)
+    if Ys.shape[1] == 1:
+        axs = [axs]
 
-    if not keys:
+    models = []
+
+    if keys is None:
         keys = [f"Y{i}" for i in range(Ys.shape[1])]
 
     for i in range(Ys.shape[1]):
-        try:
-            ax = axs[i]
-        except IndexError:
-            ax = axs
+        ax = axs[i]
 
-        X = sm.add_constant(X)  # Adds a constant column (for the intercept term)
+        # Add constant column for intercept term
+        X_with_const = sm.add_constant(X)
         y = Ys[:, i]
 
         X_train, X_val, y_train, y_val = train_test_split(
-            X, y, test_size=1 - perc_train, random_state=42
+            X_with_const, y, test_size=1 - perc_train, random_state=42
         )
-
-        # Add constant (for the intercept) in X_train and X_val
-        X_train = sm.add_constant(X_train)
-        X_val = sm.add_constant(X_val)
 
         # Create and fit the OLS model with the training data
         model = sm.OLS(y_train, X_train)
         results = model.fit()
 
-        MODELS.append(results)
+        models.append(results)
 
         # Get predictions for the validation set
         y_val_pred = results.predict(X_val)
@@ -123,10 +153,9 @@ def fit_plot_linear_model(X, Ys, keys=None, perc_train=0.8):
         ax.set_xlabel(f"Actual Values ({keys[i]}) - Validation")
         ax.set_ylabel(f"Predicted Values ({keys[i]}) - Validation")
         ax.set_aspect("equal", "box")
-
         ax.set_title(f"{keys[i]}")
 
         # Add colorbar
         fig.colorbar(sc, ax=ax, label="Density", shrink=0.6)
 
-    return MODELS
+    return models

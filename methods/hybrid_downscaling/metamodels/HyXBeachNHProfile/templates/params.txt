@@ -1,0 +1,129 @@
+---------------------------------- 
+---------------------------------- 
+      XBEACH MARLIT REBASES 
+---------------------------------- 
+---------------------------------- 
+
+
+---------------------------------- 
+Physical processes 
+---------------------------------- 
+wavemodel = nonh 
+swave  1  
+lwave  1  
+flow  1  
+swrunup  0  
+sedtrans = 0 
+morphology = 0 
+avalanching = 0 
+bchwiz  = 0 
+cyclic = 0 
+gwflow = 0 
+ships = 0 
+vegetation = 0 
+setbathy  0 
+viscosity  0 
+advection  0 
+wind  0 
+
+---------------------------------- 
+Grid input 
+---------------------------------- 
+nx      = 521 
+ny      = 2 
+vardx   = 1 
+depfile = bed.dep 
+xfile   = x.grd 
+yfile   = y.grd 
+posdwn  = -1 
+xori    = 0 
+yori    = 0 
+alfa    = 0 
+thetanaut = 0 
+thetamin = -90 
+thetamax = 90 
+dtheta = 15 
+
+---------------------------------- 
+Wave boundary input 
+---------------------------------- 
+instat = jons 
+bcfile = filelist.txt 
+random = 0 
+dtbc  1 -- > solo en caso de un solo josnwap 
+
+---------------------------------- 
+Flow boundary conditions 
+---------------------------------- 
+left = neumann 
+right = neumann 
+
+---------------------------------- 
+Tide input 
+---------------------------------- 
+tideloc = 1 
+zs0file = zs0file.txt 
+
+---------------------------------- 
+Time params/input  
+---------------------------------- 
+tstart = 0 
+tintp = 1 
+tintg = 6 
+tintm = 4200 
+tstop = 4200 
+
+---------------------------------- 
+Flow numeric parameters 
+---------------------------------- 
+bedfriction = manning  
+
+---------------------------------- 
+Breaking parameters 
+---------------------------------- 
+maxbrsteep = 0.3  
+
+---------------------------------- 
+Output  
+---------------------------------- 
+outputformat = netcdf 
+ fortran 
+
+nrugauge  1 
+0. 0. 
+
+npoints = 19 
+239.0 0 
+644.5 0 
+744.5 0 
+844.5 0 
+944.5 0 
+984.5 0 
+1044.5 0 
+1069.5 0 
+1094.5 0 
+1119.5 0 
+1144.5 0 
+1169.5 0 
+1179.5 0 
+1189.5 0 
+1199.5 0 
+1209.5 0 
+1219.5 0 
+1220.0 0 
+1229.5 0 
+
+npointvar = 4 
+D 
+u 
+zs 
+qx 
+
+nglobalvar = 3
+breaking 
+zb
+zs
+
+nmeanvar = 2 
+H 
+zs
