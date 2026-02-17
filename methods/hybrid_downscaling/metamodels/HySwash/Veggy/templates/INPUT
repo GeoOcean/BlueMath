@@ -22,7 +22,7 @@ $Initial values for flow variables
 INIT ZERO
 $
 $Hydraulic boundary conditions
-BOU SIDE W CCW BTYPE WEAK CON SERIES 'waves.bnd'
+BOUNDCOND SIDE W CCW BTYPE WEAK CON REGULAR {{ Hs }} {{ Tp }}
 BOU SIDE E CCW BTYPE RADIATION 
 SPON E 10 
 $

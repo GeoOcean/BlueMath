@@ -112,9 +112,8 @@ def plot_variable_combinations(
                     cmap="rainbow",
                     label=labels,
                 )
+                plt.colorbar(im, ax=ax)
 
         ax.legend(loc="upper right", fontsize=12)
-
-        plt.colorbar(im, ax=ax)
 
     plt.show()

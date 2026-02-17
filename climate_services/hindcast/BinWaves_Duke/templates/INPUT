@@ -1,0 +1,32 @@
+$*************************HEADING************************
+$
+PROJ 'PROJ' '{{ case_num }}'
+$
+$********************MODEL INPUT*************************$
+MODE STAT
+COORDINATES SPHERICAL CCM
+SET level=0   NAUTICAL
+$
+CGRID REGULAR {{ xpc }} {{ ypc }} {{ alpc }} {{ xlenc }} {{ ylenc }} {{ mxc }} {{ myc }} CIRCLE {{ mdc }} {{ flow }} {{ fhigh }}
+$
+INPGRID BOTTOM REGULAR {{ xpinp }} {{ ypinp }} {{ alpinp }} {{ mxinp }} {{ myinp }} {{ dxinp }} {{ dyinp }}
+READINP BOTTOM 1 'depth.dat' 1 0 FREE
+$
+BOUndspec SIDE N CONstant FILE 'input_spectra_N.bnd'
+BOUndspec SIDE E CONstant FILE 'input_spectra_E.bnd'
+BOUndspec SIDE W CONstant FILE 'input_spectra_W.bnd'
+BOUndspec SIDE S CONstant FILE 'input_spectra_S.bnd'
+$
+FRICTION JONSWAP
+BREAKING
+$
+OFF QUAD
+$
+POINTS 'LOC' FILE 'locations.loc'
+SPECOUT 'LOC' SPEC2D 'output.spec'
+BLOCK 'COMPGRID' NOHEAD 'output.mat' LAY 3 XP YP DEPTH HSIGN TM02 DIR PDIR TPS DSPR PTHSIGN PTRTP PTDIR PTDSPR
+$
+TEST  1,0
+COMPUTE 
+STOP
+$
