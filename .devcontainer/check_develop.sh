@@ -7,12 +7,14 @@ BRANCH=$(git rev-parse --abbrev-ref HEAD)
 echo "Current branch: $BRANCH"
 
 if [ "$BRANCH" != "main" ]; then
-    echo "Installing bluemath-tk in development mode..."
-    # Clone the repository
+    echo "Installing bluemath-tk and pymesh2d in development mode..."
+    # Clone the repositories
     git clone https://github.com/GeoOcean/BlueMath_tk.git /workspaces/BlueMath_tk
+    git clone https://github.com/GeoOcean/pymesh2d.git /workspaces/pymesh2d
     # Install in development mode
     cd /workspaces/BlueMath_tk
-    mv pyproject.toml pyproject.toml.bak
+    pip install -e .
+    cd /workspaces/pymesh2d
     pip install -e .
 else
     echo "Not in develop branch, skipping development installation"
