@@ -13,9 +13,9 @@ if [ "$BRANCH" != "main" ]; then
     git clone https://github.com/GeoOcean/pymesh2d.git /workspaces/pymesh2d
     # Install in development mode
     cd /workspaces/BlueMath_tk
-    pip install -e .
+    pip install .  # -e flag for development mode
     cd /workspaces/pymesh2d
-    pip install -e .
+    pip install .  # -e flag for development mode
 else
     echo "Not in develop branch, skipping development installation"
 fi
