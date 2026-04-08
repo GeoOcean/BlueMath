@@ -1,0 +1,41 @@
+x0              = 0
+y0              = 0
+mmax            = 100
+nmax            = {{nmax}}
+dx              = 100
+dy              = {{dy}}
+rotation        = 0
+
+tref            = 20221116 000000
+tstart          = 20221116 180000
+tstop           = 20221116 235959
+
+depfile         = sfincs.dep
+mskfile         = sfincs.msk
+indexfile       = sfincs.ind
+
+bndfile         = sfincs.bnd
+bzsfile         = sfincs.bzs
+spwfile         = sfincs.spw
+srcfile         = sfincs.src
+disfile         = sfincs.dis
+
+advection       = {{advection}}
+alpha           = {{alpha}}
+huthresh        = 0.05
+manning         = {{manning}}
+theta           = 1.0
+qinf            = 0.0
+viscosity       = 1
+
+dtout           = 3600
+dtmaxout        = 86400
+dthisout        = 600
+
+inputformat     = bin
+outputformat    = net
+
+obsfile         = sfincs.obs
+
+storecumprcp    = 1
+storevelmax     = 1

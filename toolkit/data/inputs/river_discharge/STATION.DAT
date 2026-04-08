@@ -1,0 +1,1019 @@
+POINTID|STATION|RIVER|LAT|LON|MAPCODE|ELEV|COUNTRY|CONT|OCEAN|BASIN|BASN_STN|AREA|NXT_PNT|RELIABLE|REASON
+2|Kibassi|Djoua|4.22|15|D4|300|Congo|Africa|Atlantic Ocean|Congo|Zaire Basin|5240|14|1| 
+4|Lahore|Wina|7|13|D4|1048|Cameroon|Africa| |Sanaga| |1690| |0|Area is less than 2000 km2
+5|Safel|Niari|-3.95|13.76|D5|150|Congo|Africa|Atlantic Ocean|Kouilou|Kouilou Basin|8620|1456|1| 
+7|Somalomo|Dja|3.38|12.77|D4|603|Cameroon|Africa|Atlantic Ocean|Sangha-Congo|Zaire Basin|5150|948|1| 
+10|Bangui|Oubangui|4.37|18.5|D4|336|Central African Republic|Africa|Atlantic Ocean|Congo|Zaire Basin|500000|1534|1| 
+11|Lake Tana|Blue Nile|11.51|37.45|F3| |Ethiopia|Africa|Mediterranean Sea|Nile|Nile Basin| |793|1| 
+12|Sudan border|Blue Nile|11.15|35.14|F3| |Ethiopia|Africa| |Nile| | | |0|Bogus Discharge
+14|Salo|Sangha|3.18|16.12|D4|370|Central African Republic|Africa|Atlantic Ocean|Congo|Zaire Basin|68300|948|1| 
+15|Niamey|Niger|13|2|C3|176|Niger|Africa|Atlantic Ocean| |Niger Basin|700000|1513|1| 
+17|Lambarene|Ogooue|0.68|10.23|D4| |Gabon|Africa|Atlantic Ocean| |Ogooue Basin|203500| |1| 
+18|Correkope|Mono|7.66|1.16|C4|148|Togo|Africa|Atlantic Ocean| |Mono Basin|9900|1464|1| 
+19|Alcongui|Gorouol|14.75|0.6|C3|227|Niger|Africa|Atlantic Ocean|Niger|Niger Basin|44900|15|1| 
+20|Melong|Nkam|5.12|10|D4|700|Cameroon|Africa|Atlantic Ocean|Wouri|GHAAS 1103 Basin|2280|26|1| 
+23|Gode|Wabi Shebele Wenz|5.86|43.7|G4| |Ethiopia|Africa|Indian Ocean|Wabi Shebele Wenz|Jubba Basin| |1546|1| 
+24|Madarounfa|Goulbi de Maradi|13.42|7.19|C3| |Niger|Africa|Atlantic Ocean| |Niger Basin| |1435|1| 
+25|Madarounfa|G. Maradi|19|7|C3| |Niger|Africa|Atlantic Ocean| |Niger Basin| |1513|1| 
+26|Yabassi|Wouri|4.45|9.96|C4|10|Cameroon|Africa|Atlantic Ocean|Gulf of Guinea|GHAAS 1103 Basin|8026| |1| 
+27|Edea|Sanaga|3.76|10.06|D4|12|Cameroon|Africa|Atlantic Ocean|Gulf of Guinea|Sanaga Basin|131520| |1| 
+28|Goura|Mbam|4.56|11.36|D4|396|Cameroon|Africa|Atlantic Ocean|Gulf of Guinea|Sanaga Basin|42300|27|1| 
+29|Nachtigal|Sanaga|4.35|11.63|D4|431|Cameroon|Africa|Atlantic Ocean|Gulf of Guinea|Sanaga Basin|76950|27|1| 
+30|Mbakaou|Djerem|6.33|12.81|D4|826|Cameroon|Africa|Atlantic Ocean|Gulf of Guinea|Sanaga Basin|20390|29|1| 
+31|Garoua|Benoue|9.3|13.38|D4|174|Cameroon|Africa|Atlantic Ocean|Niger|Niger Basin|64000| |1| 
+32|M'Bata|Lobaye|3.66|18.3|D4|350|Central African Republic|Africa|Atlantic Ocean|Oubangui|Zaire Basin|31000|1534|1| 
+38|Ndjamona|Chari|12.11|15.03|D3|285|Chad|Africa|Continent|Lake Chad|Chari Basin|600000| |1| 
+42|Sarh|Chari|9.15|18.41|D4|355|Chad|Africa|Continent|Lake Chad|Chari Basin|193000|1480|1| 
+45|Alenda|Tano|5.11|-2.75|B4|2|Ghana|Africa|Atlantic Ocean|Gulf of Guinea|GHAAS 1134 Basin|15975| |1| 
+47|Daboasi|Pra|5.13|-1.65|B4|0|Ghana|Africa|Atlantic Ocean|Gulf of Guinea|Pra Basin|22714| |1| 
+50|Senchi|Volta|6.2|0.1|C4|5|Ghana|Africa|Atlantic Ocean|Gulf of Guinea|Volta Basin|394100| |1| 
+52|Zienoa|N'Zo|6.42|-4.79|B4|29|Ivory Coast|Africa|Atlantic Ocean|Bandama|Bandama Basin|33150|1285|1| 
+53|Aniassue|Comoe|6.65|-3.68|B4|120|Ivory Coast|Africa|Atlantic Ocean|Gulf of Guinea|Comoe Basin|67400| |1| 
+56|Garissa|Tana|-0.45|39.7|F5|137|Kenya|Africa|Indian Ocean|Indian Ocean|Tana Basin|42217| |1| 
+57|Antsatrana|Ikopa|-17.41|46.85|G6| |Madagascar|Africa|Indian Ocean|Betsiboka|Ikopa Basin|18550| |1| 
+58|Maroangaty|Mananara|-22.93|46.96|G7| |Madagascar|Africa|Indian Ocean|Indian Ocean|GHAAS 1087 Basin|14160| |1| 
+59|Bevoay|Mangoky|-21.83|43.87|G7| |Madagascar|Africa|Indian Ocean|Mozambique Channel|Mangoky Basin|53225| |1| 
+60|Galougo|Senegal|13.91|-11.04|A3|69|Mali|Africa|Atlantic Ocean|Atlantic Ocean|Senegal Basin|127000|1191|1| 
+61|Koulikoro|Niger|12.86|-7.55|B3|290|Mali|Africa|Atlantic Ocean|Gulf of Guinea|Niger Basin|120000|1505|1| 
+62|Douna|Bani|13.18|-5.95|B3|271|Mali|Africa|Atlantic Ocean|Niger|Niger Basin|101600|63|1| 
+63|Mopti - Nantaka|Niger|14.5|-4.2|B3|261|Mali|Africa|Atlantic Ocean|Gulf of Guinea|Niger Basin|281600|64|1| 
+64|Dire|Niger|16.26|-3.38|B3|257|Mali|Africa|Atlantic Ocean|Gulf of Guinea|Niger Basin|340000|1508|1| 
+68|Azib Soltane|Sebou|34.28|-5.43|B1|70|Morocco|Africa|Atlantic Ocean|Atlantic Ocean|Sebou Basin|17250| |1| 
+70|Bakel|Senegal|14.9|-12.45|A3|11|Senegal|Africa|Atlantic Ocean|Atlantic Ocean|Senegal Basin|218000| |1| 
+71|Swero|Kilombero|-8.2|37|F5|237|Tanzania|Africa|Indian Ocean|Rufiji|Rufiji Basin|33400|1526|1| 
+76|Dongola|Nile|19.18|30.48|F3|212|Sudan|Africa|Mediterranean Sea|Mediterranean Sea|Nile Basin| |1487|1| 
+86|Mandi Plain|Beas|31.17|75.13|F5|207|India|Asia|Indian Ocean|Sutlej - Indus|Indus Basin|18274|844|1| 
+89|Akhnoor|Chenab|32.9|74.75|F5|305|India|Asia|Indian Ocean|Trimab - Indus|Indus Basin|22681|831|1| 
+90|Jamtara|Narmada|23|79|F6| |India|Asia|Indian Ocean| |Narmada Basin| |846|1| 
+92|Rantau Panjang|Johore|1.77|103.73|I8|10|Malaysia|Asia| |Straits of Johore| |1130| |0|Area is less than 2000 km2
+93|Mukesar|Ravi|32.45|75.23|F5|394|India|Asia|Indian Ocean|Trimab - Indus|Indus Basin|5703|831|1| 
+96|Kuala Lumpur|Klang|3.03|101.66|I8| |Malaysia|Asia|Pacific Ocean| |Pahang Basin| |107|1| 
+97|Rantau Panjang|Selengor|3.4|101.43|I8|10|Malaysia|Asia| |Straits of Malacca| |1450| |0|Area is less than 2000 km2
+98|Dingkil|Langat|2.84|101.68|I8|7|Malaysia|Asia| |Straits of Malacca| |1240| |0|Area is less than 2000 km2
+100|Ashti|Wainganga|19.78|79.78|F7| |India|Asia|Indian Ocean|Prannita-Godavary - Bay of Bengal|Godavari Basin|299320|858|1| 
+103|Anderson Br.|Teesta|26.33|88.87|G6| |India|Asia|Indian Ocean| |Ganges Basin| |688|1| 
+104|Kampong Tanggol|Trengganu|5.13|103.3|I8|12|Malaysia|Asia| |South China Sea| |3340| |0|Not on the STN-30 Land mass
+106|0 km Bukit Timah Road|Bukit Timah Canal|1.33|103.78|I8|10|Singapore|Asia|Pacific Ocean|Straits of Singapore|GHAAS 2759 Basin| | |1| 
+107|Temerloh|Pahang|3.43|102.42|I8|30|Malaysia|Asia|Pacific Ocean|South China Sea|Pahang Basin|19000| |1| 
+108|Ahvaz|Karun|31.31|48.66|C5|20|Iran|Asia|Indian Ocean|Persian Gulf|Karun Basin|60769| |1| 
+109|Ahmadabad Drudzan|Kor|30.15|51.31|D5|1610|Iran|Asia|Indian Ocean|Central|GHAAS 972 Basin|4830| |1| 
+110|Brantin|Minab|27.26|57.18|D6| |Iran|Asia|Indian Ocean|Persian Gulf|GHAAS 719 Basin|10200| |1| 
+111|Ploor|Lar|35|52|D5| |Iran|Asia|Continent| |GHAAS 74 Basin| | |1| 
+112|Poonel|Shafa-Rud|37.53|49.11|C5|50|Iran|Asia| |Caspian Sea| |350| |0|Not on the STN-30 Land mass
+115|Saw Mill|Limnitis|35.08|32.72|B5|750|Cyprus|Asia| |Mediterranean Sea| |49| |0|Not on the STN-30 Land mass
+116|Ahmedabad|Sabarmati|23.08|72.63|F6|50|India|Asia|Indian Ocean|Khambhat-ki-Khari - Araibian Sea|Rabarmati Basin|12950| |1| 
+117|Babol|Babol|36|52|D5| |Iran|Asia|Caspian Sea| |GHAAS 3180 Basin| | |1| 
+118|Takali|Bhima|17.4|75.85|F7|411|India|Asia|Indian Ocean|Krishna - Bay of Bengal|Krishna Basin|33916|1272|1| 
+119|Gonbad Kavous|Gorgan|37.23|55.13|D5|36|Iran|Asia|Caspian Sea|Caspian Sea|GHAAS 275 Basin|4870| |1| 
+120|Dhalegaon|Godavari|19.2|76.37|F7|387|India|Asia|Indian Ocean|Bay of Bengal|Godavari Basin|30840|1259|1| 
+121|Planchode|Periyar|10.17|76.75|F7|32|India|Asia|Indian Ocean|Arabian Sea|GHAAS 1325 Basin|5387| |1| 
+122|Bawapuram|Tungabhadra|15.9|77.81|F7|272|India|Asia|Indian Ocean|Krishna - Bay of Bengal|Krishna Basin|67180|856|1| 
+123|Maqarin|Yarmuk|32.7|35.9|B5| |Jordan|Asia|Mediterranean Sea| |Jordan Basin| |1275|1| 
+124|Mouth of the Brook Shumny|Amguema|67.66|-178.5|Q2|34|Russia|Asia|Chukchi Sea|Chukchi Sea|Amguema Basin|26700| |1| 
+125|Soke|Buyukmenderes|37.66|27.33|A5|8|Turkey|Asia|Mediterranean Sea|Aegean Sea|Buyukmenderes Basin|23889| |1| 
+130|Aktubinsk|Ilek|50.28|57.15|D3|201|Kazakhstan|Asia|Caspian Sea|Ural|Ural Basin|11000|826|1| 
+131|Lobva|Lobva|59.13|60.26|E3|82|Russia|Asia|Kara Sea|Tobol|Ob Basin|2940|835|1| 
+132|Akutkul|Karaturgay|49.91|64.2|E4|134|Kazakhstan|Asia|Aral Sea|Turgay|Syr-Darya Basin|14700| |1| 
+133|Dupuli|Zerafshan|39.38|67.76|E5|1041|Tajikistan|Asia|Aral Sea|Disappears In Sand|Amu-Darya Basin|10200|1252|1| 
+134|Arys|Arys|42.41|68.76|E4|222|Kazakhstan|Asia|Aral Sea|Syr-Darya|Syr-Darya Basin|13100|832|1| 
+135|Anandpur|Ozat|21.33|70.5|F6| |India|Asia| |Arabian Sea| |1105| |0|Area is less than 2000 km2
+136|Khorog|Gunt|37.53|71.51|F5|207|Tajikistan|Asia|Aral Sea|Piandza|Amu-Darya Basin|13700|1252|1| 
+137|Sergiopolskoye|Nura|50.06|73.35|F3|488|Kazakhstan|Asia|Continent|Lake Tenghiz|GHAAS 165 Basin|12300| |1| 
+138|Chapaevo (Tash-Utkul)|Chu|43.41|73.9|F4|493|Kazakhstan|Asia|Aral Sea|Saumal-Kul Lake|Syr-Darya Basin|26700| |1| 
+139|Ugut|Bolshoy Yugan|60.31|74.11|F2|31|Russia|Asia|Kara Sea|Ob|Ob Basin|22100|835|1| 
+141|Ush-Tobe|Karatal|45.26|77.85|F4|423|Kazakhstan|Asia|Continent|Lake Balkhash|GHAAS 73 Basin|13200| |1| 
+143|Gavrilovsky|Kargat|55.16|80|G3|123|Russia|Asia|Continent|Lake Malye Chany|GHAAS 1269 Basin|3910| |1| 
+144|Kappachchi|Malwatu Oya|8.6|80.26|G8|34|Sri Lanka|Asia|Indian Ocean|Indian Ocean|GHAAS 5310 Basin|2121| |1| 
+147|Napas|Tym|59.9|81.91|G3|61|Russia|Asia|Kara Sea|Ob|Ob Basin|24500|835|1| 
+148|Ulba-Perevalochnaya|Ulba|50.12|83.02|G3|322|Kazakhstan|Asia|Kara Sea|Irtysh|Ob Basin|4900|835|1| 
+149|Rhondia|Damodar|23.46|87.36|G6| |India|Asia|Indian Ocean|Bay of Bengal|Damodar Basin|19920| |1| 
+151|Bugurtak|Tuba|53.76|92.76|H3|284|Russia|Asia|Kara Sea|Yenisei|Yenisey Basin|31400|880|1| 
+152|Tulun|Iya|54.67|100.88|I3|449|Russia|Asia|Kara Sea|Angara|Yenisey Basin|14500|880|1| 
+153|Iskandar Bridge|Perak|4.81|100.96|I8|45|Malaysia|Asia|Indian Ocean|Straits of Malacca|GHAAS 3607 Basin|7770| |1| 
+154|Guillemard Bridge|Kelantan|5.76|102.15|I8|26|Malaysia|Asia|Pacific Ocean|South China Sea|GHAAS 2535 Basin|11900| |1| 
+155|Maleta|Khilok|50.76|108.25|I3|663|Russia|Asia|Kara Sea|Baikal Lake|Yenisey Basin|25700|880|1| 
+157|Chi-chi|Cho-Shui|23.83|120.75|K6|196|China|Asia|Pacific Ocean|Formosa Strait|GHAAS 1854 Basin|2311| |1| 
+158|Arayat, Pampanga|Pampanga|15.16|120.76|K7|1|Philippines|Asia|Pacific Ocean|South China Sea|GHAAS 1266 Basin|6487| |1| 
+159|Palattao, Naguilian, Isabela|Cagayan|17.5|121.43|K7|27|Philippines|Asia| |Babuyan Channel| |4341| |0|Incomplete Time Series
+160|Isabela, Luson Island|Cagayan|16.6|121.68|K7|92|Philippines|Asia|Pacific Ocean|Luson Strait|Cagayan Basin|4244| |1| 
+165|Buyaga|Amga|59.55|126.95|K3|270|Russia|Asia|Laptev Sea|Aldan|Lena Basin|23900|930|1| 
+166|Indogyo|Han|37.46|126.96|K5|2|South Korea|Asia|Pacific Ocean|Yellow Sea|Han Basin|25045| |1| 
+167|Sam Nang Jin|Nag Dong|35.4|128.85|K5|-1|South Korea|Asia|Pacific Ocean|Sea of Japan|Nag Dong Basin|22916| |1| 
+168|Senoshita|Chikugo|33.31|130.48|L5|2|Japan|Asia|Pacific Ocean|Sea of Ariake|GHAAS 4178 Basin|2315| |1| 
+169|Kirovsky|Ussuri|45.01|133.65|L4|79|Russia|Asia|Pacific Ocean|Amur|Amur Basin|24400|932|1| 
+170|Hirakata|Yodo|34.8|135.63|L5|8|Japan|Asia|Pacific Ocean|Pacific Ocean|GHAAS 1847 Basin|7281| |1| 
+171|Ojiya|Shinano|37.3|138.8|L5|40|Japan|Asia|Pacific Ocean|Sea of Japan|Shinano Basin|9719| |1| 
+172|Kirihashi|Tone|36.13|139.7|L5|11|Japan|Asia|Pacific Ocean|Pacific Ocean|Tone Basin|8588| |1| 
+173|Ishikari - Ohashi|Ishikari|43.11|141.53|M4|0|Japan|Asia|Pacific Ocean|Sea of Japan|GHAAS 1188 Basin|12697| |1| 
+174|Ado-Tymovo|Tym|51.26|142.71|M3|52|Russia|Asia|Pacific Ocean|Sea of Okhotsk|GHAAS 1027 Basin|3420| |1| 
+175|Ala-Chubuk|Nera|61.68|144.66|M2|572|Russia|Asia|East Siberian Sea|Indigirka|Kolyma Basin|22300|937|1| 
+176|Kolyma Rd., 79th km|Khasyn|64.18|151.3|N2|253|Russia|Asia| |Sea of Okhotsk| |682| |0|Area is less than 2000 km2
+177|Omchikchan|Sugoy|62.6|156|N2|447|Russia|Asia|East Siberian Sea|Kolyma|Kolyma Basin|5880|937|1| 
+179|Blois|Loire|47.58|1.33|D4|66|France|Europe|Atlantic Ocean|Atlantic Ocean|Loire Basin|38240|737|1| 
+181|Plovdiv|Maritsa|42.15|27.75|F4|156|Bulgaria|Europe|Black Sea|White Sea|GHAAS 5834 Basin|7931| |1| 
+183|Yushkozero|Kem|64.7|32|G2|88|Russia|Europe|Barents Sea|White Sea|Kem Basin|19800| |1| 
+187|Selfoss|Olfusa|63.93|-21.01|A2|10|Iceland|Europe| |Atlantic Ocean| |5760| |0|Not on the STN-30 Land mass
+188|Urridafoss|Thjorsa|63.93|-20.64|A2|44|Iceland|Europe|Atlantic Ocean|Atlantic Ocean|Olfusa Basin|7200| |1| 
+189|Dettifoss|Jokulsa|65.83|-16.41|B2|320|Iceland|Europe|Greenland Sea|Norwegian Sea|GHAAS 1262 Basin|7000| |1| 
+190|Lagarfoss|Lagarfljot|65.5|-14.36|B2|16|Iceland|Europe| |Norwegian Sea| |2800| |0|Not on the STN-30 Land mass
+193|Bewdley|Severn|52.36|-2.31|C3|17|United Kingdom|Europe|North Sea|Atlantic Ocean|Trent Basin|4325| |1| 
+194|Colwick|Trent|53.94|-1.06|C3|44|United Kingdom|Europe|North Sea|North Sea|GHAAS 461 Basin|7486| |1| 
+195|Masia del Mompo|Jucar|39.11|-0.65|C5|45|Spain|Europe|Mediterranean Sea|Mediterranean Sea|Jucar Basin|17876| |1| 
+196|Teddington|Thames|51.4|-0.33|C3|5|United Kingdom|Europe|North Sea|North Sea|Thames Basin|9948| |1| 
+197|Lith|Maas|51.81|5.45|D3|8|Netherlands|Europe|North Sea|Rhine|Meuse Basin|29000| |1| 
+198|Chancy|Rhone|46.13|5.97|D4|336|Switzerland|Europe|Mediterranean Sea|Mediterranean Sea|Rhone Basin|10299|741|1| 
+199|Cochem|Mosel|50.15|7.16|D3|77|Germany|Europe|North Sea|Rhine|Rhine Basin|27100|745|1| 
+200|Kleinheubach|Main|49.71|9.23|D4|120|Germany|Europe|North Sea|Rhine|Rhine Basin|21505|745|1| 
+201|Boara Pisani|Adige|45.13|11.83|E4|9|Italy|Europe|Mediterranean Sea|Adriatic Sea|Po Basin|11954| |1| 
+202|Rome|Tiber|41.9|12.48|E4|1|Italy|Europe|Mediterranean Sea|Tyrrhenian Sea|GHAAS 1388 Basin|16545| |1| 
+203|Scharding|Inn|48.45|13.43|E4|300|Austria|Europe|Black Sea|Donau|Danube Basin|25665|754|1| 
+204|Moravsky Jan|Morava|48.6|16.93|E4|147|Slovakia|Europe|Black Sea|Danube|Danube Basin|24129|754|1| 
+205|Solleften|Angermanalven|63.16|17.26|E2|4|Sweden|Europe|Baltic Sea|Baltic Sea|Amgerman Basin|30640| |1| 
+207|Sremska Mitrovica|Sava|44.96|19.61|E4|72|Serbia|Europe|Black Sea|Danube|Danube Basin|87996|772|1| 
+208|Kalimash|Drini|42.39|19.4|E4|19|Albania|Europe|Mediterranean Sea|Adriatic Sea|GHAAS 581 Basin|12368| |1| 
+209|Dorze|Vjosa|40.38|19.8|E4|963|Albania|Europe|Mediterranean Sea|Adriatic Sea|GHAAS 1312 Basin|5420| |1| 
+211|Arad|Mures|46.16|21.31|F4|104|Romania|Europe|Black Sea|Danube|Danube Basin|27061|768|1| 
+213|Boden Waterworks|Lulealven|65.83|21.61|F2|11|Sweden|Europe|Baltic Sea|Baltic Sea|Lulealven Basin|24490| |1| 
+214|Satu Mare|Somes|47.78|22.88|F4|118|Romania|Europe|Black Sea|Tisza|Danube Basin|15155|770|1| 
+215|Kunino|Iskur|43.18|24|F4|124|Bulgaria|Europe|Black Sea|Black Sea|Danube Basin|6697|765|1| 
+216|Orekula|Piarnu|58.45|24.83|F3|5|Estonia|Europe|Baltic Sea|Baltic Sea|GHAAS 2202 Basin|5180| |1| 
+217|1429th km of Octiabrsky Railway|Kola|68.88|33.05|G2|23|Russia|Europe|Barents Sea|Barents Sea|Kola Basin|3780| |1| 
+218|Olonets|Olonka|60.55|33.01|G2|4|Russia|Europe|Baltic Sea|Lake Ladoga|Neva Basin|2120|807|1| 
+220|Kostomarovo|Oka|53.08|36.03|G3|145|Russia|Europe|Caspian Sea|Volga|Volga Basin|4900|817|1| 
+221|Spas - Zagorie|Protva|55.03|36.65|G3|119|Russia|Europe|Caspian Sea|Oka|Volga Basin|3640|817|1| 
+222|Sakochakidze|Rioni|42.21|41.8|H4|2|Georgia|Asia|Black Sea|Black Sea|GHAAS 1406 Basin|13300| |1| 
+223|Filaievskaya|Vaga|61.23|42.25|H2|60|Russia|Europe|Barents Sea|Northern Dvina|Dvina Basin|13200|820|1| 
+224|Chutanovka|Vorona|52.61|42.71|H3|121|Russia|Europe|Black Sea|Don|Don Basin|5560|815|1| 
+225|Svetlograd|Kalaus|45.23|42.78|H4|117|Russia|Europe|Black Sea|Vostochny Manych|Don Basin|4540| |1| 
+226|Makariev|Unzha|57.9|43.66|H3|86|Russia|Europe|Caspian Sea|Volga|Volga Basin|18500|817|1| 
+227|Ordzhonikidze|Terek|43.06|44.6|H4|679|Russia|Europe| |Caspian Sea| |1490| |0|Area is less than 2000 km2
+228|Uruk|Vorotan|39.48|46.15|H5|1395|Azerbaijan|Asia| |Araks| |1550| |0|Area is less than 2000 km2
+229|Luchek|Kara-Samur|41.73|47.15|H4|1436|Azerbaijan|Asia| |Samur| |481| |0|Area is less than 2000 km2
+230|Aleksashkino|Malyy Uzen|50.91|47.81|H3|43|Russia|Europe| |Kamysh-Samarsk| |1910| |0|Area is less than 2000 km2
+231|Malaya Kuzhba|Vychegda|61.66|53.73|I2|95|Russia|Europe|Barents Sea|Northern Dvina|Dvina Basin|26500|820|1| 
+232|Aguacate|Toa|20.39|-74.69|J5|562|Cuba|North America| |Atlantic Ocean| |753| |0|Area is less than 2000 km2
+233|Sta Sofia|Guantamo|20|-75.33|J5| |Cuba|North America|Atlantic Ocean| |GHAAS 3863 Basin| | |1| 
+235|Cariblanco|Sarapiqui|10.25|-84|I6|752|Costa Rica|North America| |Caribbean Sea| |73| |0|Area is less than 2000 km2
+236|San Carlos|Salado|20.5|-76.83|J5| |Cuba|North America|Atlantic Ocean| |GHAAS 1604 Basin| | |1| 
+237|Nagatac|Barranca|10|-84.5|I6| |Costa Rica|North America|Atlantic Ocean| |San Juan Basin| | |1| 
+238|Calle Larga|Bayano|9|-78|J7| |Panama|North America| | | | | |0|Not on the STN-30 Land mass
+239|Paso Canoa|Chiriqui Viejo|8.54|-82.84|I7|85|Panama|North America| |Pacific Ocean| |788| |0|Area is less than 2000 km2
+240|David|Chirigui|8.42|-82.41|I7|10|Panama|North America| |Pacific Ocean| |1204| |0|Area is less than 2000 km2
+241|Camaron|Tabasara|8.07|-81.64|I7|15|Panama|North America| |Pacific Ocean| |1070| |0|Not on the STN-30 Land mass
+242|Lethe|Great River|18.38|-77.97|J6|79|Jamaica|North America| |Caribbean Sea| |221| |0|Area is less than 2000 km2
+243|La Campana|San Cristobal|22.73|-83.05|I5|269|Cuba|North America| |Caribbean Sea| |100| |0|Area is less than 2000 km2
+247|Santa Barbara|Viego|12.74|-86.12|I6| |Nicaragua|North America|Atlantic Ocean| |Grande-Matagalpa Basin| |248|1| 
+248|La Lima|Viego|12.84|-85.99|I6| |Nicaragua|North America|Atlantic Ocean| |Grande-Matagalpa Basin| |254|1| 
+249|Tamarindo|Tamarindo|12.23|-86.7|I6| |Nicaragua|North America| | | | | |0|Not on the STN-30 Land mass
+250|Villanueva en Puente|Villanueva|12|-86|I6| |Nicaragua|North America|Atlantic Ocean| |San Juan Basin| |256|1| 
+254|Paiwas|Grande|12.78|-85.12|I6|120|Nicaragua|North America|Atlantic Ocean|Caribbean Sea|Grande-Matagalpa Basin|6500|1062|1| 
+255|Miramar|Brito|11.38|-85.95|I6|10|Nicaragua|North America| | | |249| |0|Not on the STN-30 Land mass
+256|El Castillo|San Juan|11.02|-84.42|I6|26|Nicaragua|North America|Atlantic Ocean|San Juan|San Juan Basin|32818| |1| 
+257|San Francisco|Santa Maria|8.23|-80.97|I7|5|Panama|North America| |Gulf of Panama| |1505| |0|Area is less than 2000 km2
+258|Los Gavilanes|San Diego|22.65|-83.4|I5|162|Cuba|North America| |Caribbean Sea| |157| |0|Area is less than 2000 km2
+259|Rio Grande|Grande|8.64|-80.5|I7|15|Panama|North America| |Gulf of Panama| |471| |0|Area is less than 2000 km2
+260|Old Crow|Porcupine|67.56|-139.83|D1|240|Canada|North America|Bering Sea|Yukon|Yukon Basin|55400|1200|1| 
+261|Dawson|Yukon|64.06|-139.43|D1|310|Canada|North America|Bering Sea|Bering Sea|Yukon Basin|264000|1203|1| 
+262|Pelly Crossing|Pelly|62.83|-136.58|D1|460|Canada|North America|Bering Sea|Bering Sea|Yukon Basin|49000|261|1| 
+263|Carmacks|Yukon|62.1|-136.26|D1|530|Canada|North America|Bering Sea|Bering Sea|Yukon Basin|81800|261|1| 
+264|Telegraph Creek|Stikine|57.9|-131.16|D2|175|Canada|North America|Pacific Ocean|Pacific Ocean|Stikine Basin|29300| |1| 
+265|Shumel Creek|Nass|55.25|-129.08|E2|34|Canada|North America|Pacific Ocean|Pacific Ocean|Nass Basin|19200| |1| 
+267|Norman Wells|Mackenzie|65.28|-126.86|E1|50|Canada|North America|Beaufort Sea|Beaufort Sea|Mackenzie Basin|1570000| |1| 
+268|Lower Crossing|Liard|59.41|-126.1|E2|410|Canada|North America|Beaufort Sea|Mackenzie River|Mackenzie Basin|104000|270|1| 
+269|Clausen Creek|South Nahanni|61.25|-124.03|E1|300|Canada|North America|Beaufort Sea|Liard River|Mackenzie Basin|33400|267|1| 
+270|Fort Liard|Liard|60.25|-123.4|E1|210|Canada|North America|Beaufort Sea|Mackenzie River|Mackenzie Basin|222000|267|1| 
+271|Marguerite|Fraser|52.53|-122.45|E2|430|Canada|North America|Pacific Ocean|Pacific Ocean|Fraser Basin|114000|272|1| 
+272|Hope|Fraser|49.38|-121.45|E3|38|Canada|North America|Pacific Ocean|Pacific Ocean|Fraser Basin|217000| |1| 
+273|Spences Bridge|Thompson|50.35|-121.35|E2|210|Canada|North America|Pacific Ocean|Fraser River|Fraser Basin|54900|272|1| 
+274|(On Columbia)|Columbia|49.18|-117.71|F3|410|Canada|North America| |Pacific Ocean| |88000| |0|Second station in the same cell
+275|International Boundary|Columbia|48.92|-117.63|F3|400|Canada|North America|Pacific Ocean|Pacific Ocean|Columbia Basin|155000|353|1| 
+276|Fort Providence|Mackenzie|61.26|-117.53|F1|150|Canada|North America|Beaufort Sea|Beaufort Sea|Mackenzie Basin|970000|267|1| 
+277|Peace River|Peace|56.25|-117.31|F2|310|Canada|North America|Beaufort Sea|Slave River|Mackenzie Basin|186000|279|1| 
+278|Copeland|Kootenayi|48.91|-116.41|F3|530|Canada|North America|Pacific Ocean|Columbia River|Columbia Basin|34700|1156|1| 
+279|Peace Point|Peace|59.11|-112.43|F2|210|Canada|North America|Beaufort Sea|Slave River|Mackenzie Basin|293000|280|1| 
+280|Fitzgerald|Slave|59.86|-111.58|F2|200|Canada|North America|Beaufort Sea|Great Slave Lake|Mackenzie Basin|606000|276|1| 
+281|McMurray|Athabasca|56.78|-111.4|F2|240|Canada|North America|Beaufort Sea|Lake Athabasca|Mackenzie Basin|133000|280|1| 
+282|Medicine Hat|South Saskatchewan|50.05|-110.68|F2|660|Canada|North America|Hudson Bay|Saskatchewan River|Nelson Basin|56400|284|1| 
+284|Saskatoon|South Saskatchewan|52.11|-106.66|G2|480|Canada|North America|Hudson Bay|Saskatchewan River|Nelson Basin|141000|287|1| 
+285|Prince Albert|North Saskatchewan|53.2|-105.76|G2|410|Canada|North America|Hudson Bay|Saskatchewan River|Nelson Basin|131000|287|1| 
+286|Beverly Lake|Thelon|64.53|-101.36|G1|80|Canada|North America|Hudson Bay|Aberdeen Lake|Baker Basin|65600| |1| 
+287|Pas|Saskatchewan|53.83|-101.18|G2|260|Canada|North America|Hudson Bay|Lake Winnipegosis|Nelson Basin|347000|291|1| 
+288|Granville Falls|Churchill|56.15|-100.45|G2|270|Canada|North America|Hudson Bay|Hudson Bay|Churchill (Hud) Basin|230000| |1| 
+289|Brandon|Assiniboine|49.85|-99.93|H3|350|Canada|North America|Hudson Bay|Red River|Nelson Basin|92000|292|1| 
+290|Wawanesa|Souris|49.6|-99.68|H3|360|Canada|North America|Hudson Bay|Assiniboine River|Nelson Basin|60400|289|1| 
+291|Bladder Rapids|Nelson|54.76|-97.93|H2|190|Canada|North America|Hudson Bay|Hudson Bay|Nelson Basin|1000000| |1| 
+292|Headingley|Assiniboine|49.86|-97.4|H3|230|Canada|North America|Hudson Bay|Red River|Nelson Basin|153000|291|1| 
+293|Emerson|Red|49|-97.21|H3|230|Canada|North America|Hudson Bay|Lake Winnipeg|Nelson Basin|104000|291|1| 
+294|Deep Rose Lake|Back|66.08|-96.5|H1|27|Canada|North America|Arctic Archipelago|Arctic Ocean|Back Basin|93900| |1| 
+295|Kazan Falls|Kazan|63.66|-95.76|H1|80|Canada|North America|Hudson Bay|Hudson Bay|Baker Basin|70000| |1| 
+296|Slave Falls|Winnipeg|50.23|-95.56|H2|280|Canada|North America|Hudson Bay|Lake Winnipeg|Nelson Basin|126000|291|1| 
+297|Muskrat Dam|Severn|53.46|-91.5|H2|250|Canada|North America| |Hudson Bay| | | |0|Short Record
+298|Asheweig River Tributary|Winisk|54.51|-87.23|I2|100|Canada|North America|Hudson Bay|Hudson Bay|Winisk Basin|50000| |1| 
+299|Attawapiskat Lake|Attawapiskat|52.08|-83.86|I2|240|Canada|North America|Hudson Bay|James Bay|GHAAS 511 Basin|24200| |1| 
+300|Sault Ste Marie|St. Marys|46.51|-84.36|I3|180|Canada|North America|Atlantic Ocean|Lake Huron|St. Lawrence Basin|210000|303|1| 
+301|Hat Island|Albany|51.33|-83.86|I2|67|Canada|North America|Hudson Bay|James Bay|Albany Basin|118000| |1| 
+302|Moose River Crossing|Moose|50.81|-81.3|I2|29|Canada|North America|Hudson Bay|James Bay|Moose Basin|60100| |1| 
+303|Queenston|Niagara|43.15|-79.05|J3|76|Canada|North America|Atlantic Ocean|Lake Ontario|St. Lawrence Basin|686000|413|1| 
+304|La Cave Rapids|Ottawa|46.36|-78.71|J3|180|Canada|North America|Atlantic Ocean|St. Lawrence River|St. Lawrence Basin|47900|310|1| 
+305|l'Achazi|Grande Riviere|53.73|-78.56|J2|7|Canada|North America|Hudson Bay|James Bay|La Grande Basin|96300| |1| 
+306|Gorge de Basile|Eastmain|52.25|-78.08|J2|35|Canada|North America|Hudson Bay|James Bay|Eastmain Basin|44300| |1| 
+307|(On Grande Riviere)|Grande Riviere De La Baleine|55.28|-77.58|J2|18|Canada|North America|Hudson Bay|Hudson Bay|GR Baleine Basin|42200| |1| 
+308|Soscumica|Nottaway|50.13|-77.43|J2|243|Canada|North America|Hudson Bay|James Bay|Nottaway Basin|57500| |1| 
+309|Nemiscau|Rupert|52.45|-76.88|J2|211|Canada|North America|Hudson Bay|James Bay|Eastmain Basin|40700|306|1| 
+310|Chats Falls|Ottawa|45.46|-76.23|J3|70|Canada|North America|Atlantic Ocean|St. Lawrence River|St. Lawrence Basin|89600| |1| 
+311|Cornwall|St. Lawrence|45|-74.78|J3|47|Canada|North America|Atlantic Ocean|Gulf of St. Lawrence|St. Lawrence Basin|774410| |1| 
+312|De Pontois|Grande Riviere|53.63|-74.53|J2|236|Canada|North America|Hudson Bay|James Bay|La Grande Basin|37000|305|1| 
+314|Centrale de Chute a la Savanne|Peribonca|48.75|-71.83|J3|149|Canada|North America|Atlantic Ocean|Saguenay River|St. Lawrence Basin|26900|315|1| 
+315|Centrale d'Isle-Maligne|Saguenay|48.58|-71.63|J3|100|Canada|North America|Atlantic Ocean|Gulf of St. Lawrence|St. Lawrence Basin|73000| |1| 
+316|Peladeau|Aux Feuilles|58.65|-70.41|J2|4|Canada|North America|Hudson Strait|Ungava Bay|Aux Feuilles Basin|41700| |1| 
+317|Koksoak|Aux Melezes|57.68|-69.58|K2|27|Canada|North America|Hudson Strait|Koksoak|Koksoak Basin|42700| |1| 
+318|Chute de la Pyrite|Caniapiscau|57.43|-69.25|K2|67|Canada|North America|Hudson Strait|Ungava Bay|Koksoak Basin|86800| |1| 
+319|Centrale de Chute-aux-Outardes|Aux Outardes|49.15|-68.4|K3|58|Canada|North America|Atlantic Ocean|Gulf of St. Lawrence|St. Lawrence Basin|18900| |1| 
+320|Centrale McCormick|Manicouagan|49.2|-68.33|K3|37|Canada|North America|Atlantic Ocean|Gulf of St. Lawrence|St. Lawrence Basin|45800| |1| 
+321|40.2 km de l'embouchure|A La Baleine|57.88|-67.58|K2|26|Canada|North America|Hudson Strait|Ungava Bay|A La Baleine Basin|29800| |1| 
+322|Pokiok|St. John|45.96|-67.23|K3|17|Canada|North America|Atlantic Ocean|Atlantic Ocean|Saint John Basin|38800|1026|1| 
+323|QNSLR|Moisie|50.35|-66.18|K2|17|Canada|North America|Atlantic Ocean|Gulf of St. Lawrence|Moisie Basin|19000| |1| 
+324|Chutes Helene|George|58.15|-65.96|K2|104|Canada|North America|Hudson Strait|Ungava Bay|George Basin|35200| |1| 
+325|l'embouchure|Natashquan|50.2|-61.6|K2|5|Canada|North America|Atlantic Ocean|Gulf of St. Lawrence|Natashquan Basin|16800| |1| 
+326|Upper Muskrat Falls|Churchill|53.26|-60.75|K2|16|Canada|North America|Atlantic Ocean|Labrador Sea|Churchill (Atl) Basin|92500| |1| 
+327|Netagamiou|Du Petit-Mecatina|50.7|-59.6|L2|50|Canada|North America|Atlantic Ocean|Gulf of St. Lawrence|Petit Mecatina Basin|19100| |1| 
+329|Balsa|Grande de Tarcoles|9.93|-84.46|I7|267|Costa Rica|North America| |Pacific Ocean| |1638| |0|Area is less than 2000 km2
+330|Angosture|Reventazon|9.9|-83.65|I7|532|Costa Rica|North America| |Caribbean Sea| |1337| |0|Area is less than 2000 km2
+331|Palmar|Grande de Terraba|8.95|-83.46|I7|13|Costa Rica|North America|Pacific Ocean|Pacific Ocean|GHAAS 5479 Basin|4767| |1| 
+332|Moscones|La Rioja|20.56|-76.66|J5|110|Cuba|North America| |Atlantic Ocean| |175| |0|Area is less than 2000 km2
+333|San Marcos|Lempa|13.43|-88.7|I6|5|El Salvador|North America|Pacific Ocean|Pacific Ocean|GHAAS 1006 Basin|18246| |1| 
+334|Vado Marin|Grande de San Miguel|13.3|-88.28|I6|20|El Salvador|North America|Pacific Ocean|Pacific Ocean|GHAAS 3148 Basin|2350| |1| 
+336|El Capomal|Santiago|21.82|-105.11|G5|39|Mexico|North America|Pacific Ocean|Pacific Ocean|Grande de Santiago Basin|122960| |1| 
+337|Las Adjuntas|Panuco|21.98|-98.56|H5|80|Mexico|North America|Atlantic Ocean|Gulf of Mexico|Panuco Basin|58115| |1| 
+338|Boca del Cerro|Usumacinta|17.43|-91.48|H6|60|Mexico|North America|Atlantic Ocean|Gulf of Mexico|Usumacinta Basin|47697| |1| 
+339|Kaltag, Alaska|Yukon|64.33|-158.71|B1|30|United States|North America|Bering Sea|Bering Sea|Yukon Basin|767000| |1| 
+340|Crooked Creek, Alaska|Kuskokwim|61.86|-158.11|B1|61|United States|North America|Pacific Ocean|Bering Sea|Kuskowin Basin|80549| |1| 
+342|Chitina, Alaska|Copper|61.46|-144.45|C1|122|United States|North America|Pacific Ocean|Gulf of Alaska|Copper Basin|53354| |1| 
+344|Scotia, California|Eel|40.5|-124.1|E3|11|United States|North America|Pacific Ocean|Pacific Ocean|Eel Basin|8063| |1| 
+345|Agness, Oregon|Rogue|42.58|-124.06|E3|35|United States|North America|Pacific Ocean|Pacific Ocean|GHAAS 1043 Basin|10200| |1| 
+346|Klamath, California|Klamath|41.51|-123.96|E3|2|United States|North America|Pacific Ocean|Pacific Ocean|Klamath Basin|31339| |1| 
+347|Elkton, Oregon|Umpqua|43.58|-123.56|E3|28|United States|North America|Pacific Ocean|Pacific Ocean|GHAAS 1306 Basin|9539| |1| 
+348|Porter, Washington|Chehalis|46.93|-123.31|E3|7|United States|North America|Pacific Ocean|Pacific Ocean|GHAAS 1620 Basin|3351| |1| 
+349|Salem, Oregon|Willamette|44.95|-123.03|E3|32|United States|North America|Pacific Ocean|Columbia River|Columbia Basin|18855| |1| 
+350|Castle Rock, Washington|Cowlitz|46.26|-122.91|E3|6|United States|North America|Pacific Ocean|Columbia River|Columbia Basin|5796| |1| 
+351|Sacramento, California|Sacramento|38.58|-121.5|E4| |United States|North America|Pacific Ocean|Pacific Ocean|Sacramento Basin|60886| |1| 
+352|Vernalis, California|San Joaquin|37.68|-121.26|E4|0|United States|North America|Pacific Ocean|Pacific Ocean|Sacramento Basin|35058| |1| 
+353|The Dalles, Oregon|Columbia|45.6|-121.18|E3|0|United States|North America|Pacific Ocean|Pacific Ocean|Columbia Basin|613830| |1| 
+354|Imlay, Nevada|Humboldt|40.7|-118.2|F3|1259|United States|North America|Continent|Great Basin|GHAAS 224 Basin|40663| |1| 
+356|Clarkstone, Washington|Snake|46.43|-117.16|F3|200|United States|North America|Pacific Ocean|Columbia River|Columbia Basin|267300|353|1| 
+357|Newport, Washington|Pend Oreille|48.18|-117.03|F3|610|United States|North America|Pacific Ocean|Columbia River|Columbia Basin|62678|275|1| 
+358|Limite Internacional Norte|Colorado|32.73|-114.63|F4|30|United States|North America| |Pacific Ocean| |631960| |0|Second station in the same cell
+359|Juab, Utah|Sevier|39.36|-112.03|F4|1506|United States|North America|Continent|Great Basin|GHAAS 660 Basin|13261| |1| 
+360|Lees Ferry, Arizona|Colorado|36.86|-111.58|F4|947|United States|North America|Pacific Ocean|Gulf of California|Colorado (Arz) Basin|289562|1072|1| 
+361|Green River, Utah|Green|38.98|-110.15|F4|1231|United States|North America|Pacific Ocean|Colorado|Colorado (Arz) Basin|105154|360|1| 
+362|Culbertson, Montana|Missouri|48.11|-104.46|G3|574|United States|North America| |Missouri| |237133| |0|Bogus Discharge
+363|Sidney, Montana|Yellowstone|47.61|-104.16|G3|573|United States|North America| |Missouri| |178977| |0|Bogus Discharge
+364|Langtry, Texas|Pecos|29.83|-101.38|G5|353|United States|North America|Atlantic Ocean|Rio Grande|Rio Grande Basin|91069|365|1| 
+365|Laredo, Texas|Rio Grande|27.5|-99.5|H5|106|United States|North America|Atlantic Ocean|Gulf of Mexico|Rio Grande Basin|352178|1091|1| 
+366|Mathis, Texas|Nueces|28.03|-97.86|H5|8|United States|North America|Atlantic Ocean|Gulf of Mexico|Nueces Basin|43149| |1| 
+367|Yankton, South Dakota|Missouri|42.86|-97.4|H3|347|United States|North America|Atlantic Ocean|Mississippi|Mississippi Basin|273905|372|1| 
+368|Grand Forks, N.D.|Red of the North|47.93|-97.08|H3|237|United States|North America|Hudson Bay|Lake Winnipeg|Nelson Basin|77959|293|1| 
+369|Louisville, Nebraska|Platte|41.03|-96.3|H3|307|United States|North America|Atlantic Ocean|Missouri|Mississippi Basin|222222|372|1| 
+370|Wharton, Texas|Colorado|29.3|-96.1|H5|20|United States|North America|Atlantic Ocean|Gulf of Mexico|Colorado (Tex) Basin|107174| |1| 
+371|Tulsa, Oklahoma|Arkansas|36.15|-96|H4|188|United States|North America|Atlantic Ocean|Mississippi|Mississippi Basin|193253|380|1| 
+372|Nebraska City, Nebraska|Missouri|40.66|-95.83|H3|276|United States|North America|Atlantic Ocean|Mississippi|Mississippi Basin|1061899|384|1| 
+373|Richmond, Texas|Brazos|29.58|-95.75|H5|12|United States|North America|Atlantic Ocean|Gulf of Mexico|Brazos Basin|116568| |1| 
+374|Whitefield, Oklahoma|Canadian|35.26|-95.23|H4|146|United States|North America|Atlantic Ocean|Arkansas River|Mississippi Basin|123222|380|1| 
+375|Desoto, Kansas|Kansas|38.9|-94.88|H4|231|United States|North America|Atlantic Ocean|Missouri|Mississippi Basin|154768|384|1| 
+376|Romayor, Texas|Trinity|30.43|-94.85|H4|11|United States|North America|Atlantic Ocean|Gulf of Mexico|Trinity Basin|44512| |1| 
+377|Evedale, Texas|Neches|30.35|-94.1|H4|3|United States|North America|Atlantic Ocean|Gulf of Mexico|Neches Basin|20590| |1| 
+378|Ruliff, Texas|Sabine|30.3|-93.75|H4|1|United States|North America|Atlantic Ocean|Gulf of Mexico|Sabine Basin|24162| |1| 
+379|Alexandria, Louisiana|Red|31.31|-92.45|H4|13|United States|North America|Atlantic Ocean|Gulf of Mexico|Mississippi Basin|174825| |1| 
+380|Little Rock, Arkansas|Arkansas|34.75|-92.26|H4|68|United States|North America|Atlantic Ocean|Mississippi|Mississippi Basin|409453|385|1| 
+381|Monroe, Louisiana|Ouachita|32.5|-92.13|H4|10|United States|North America|Atlantic Ocean|Red River|Mississippi Basin|39622| |1| 
+382|Tarbert Landing, Missisippi|Mississippi|31|-91.61|H4|2|United States|North America| |Gulf of Mexico| |3923800| |0|Bogus Discharge
+383|Devalls Bluff, Arkansas|White|34.78|-91.45|H4|47|United States|North America|Atlantic Ocean|Mississippi|Mississippi Basin|60686|385|1| 
+384|Hermann, Missouri|Missouri|38.71|-91.43|H4|147|United States|North America|Atlantic Ocean|Mississippi|Mississippi Basin|1357677|385|1| 
+385|Vicksburg, Missisippi|Mississippi|32.31|-90.9|H4|14|United States|North America|Atlantic Ocean|Gulf of Mexico|Mississippi Basin|2964254| |1| 
+386|Clinton, Iowa|Mississippi|41.78|-90.25|H3|172|United States|North America|Atlantic Ocean|Gulf of Mexico|Mississippi Basin|221704|387|1| 
+387|Alton, Illinois|Mississippi|38.88|-90.16|H4|0|United States|North America|Atlantic Ocean|Gulf of Mexico|Mississippi Basin|444185|385|1| 
+388|Bogalusia, Lousiana|Pearl|30.8|-89.81|I4|17|United States|North America|Atlantic Ocean|Atlantic Ocean|Pearl Basin|17172| |1| 
+389|Merrill, Missisippi|Pascagoula|30.98|-88.73|I4|8|United States|North America|Atlantic Ocean|Atlantic Ocean|GHAAS 933 Basin|17094| |1| 
+390|Metropolis, Illinois|Ohio|37.15|-88.73|I4|84|United States|North America|Atlantic Ocean|Mississippi|Mississippi Basin|525770|385|1| 
+391|Grand Riber, Kentucky|Cumberland|37.15|-88.4|I4|91|United States|North America|Atlantic Ocean|Ohio River|Mississippi Basin|45579|390|1| 
+392|Paducah, Kentucky|Tennessee|37.01|-88.28|I4|87|United States|North America|Atlantic Ocean|Ohio River|Mississippi Basin|104118|390|1| 
+393|Wrightstown, Wis.|Fox|44.31|-88.2|I3| |United States|North America|Atlantic Ocean|Lake Michigan|St. Lawrence Basin|16084|303|1| 
+395|Mt Carmel, Illinois|Wabash|38.4|-87.75|I4|113|United States|North America|Atlantic Ocean|Ohio River|Mississippi Basin|74165|390|1| 
+396|Claiborne, Alabama|Alabama|31.53|-87.51|I4|0|United States|North America|Atlantic Ocean|Mobile River|Alabama Basin|56980| |1| 
+397|Century, Florida|Escambia|30.95|-87.23|I4|9|United States|North America|Atlantic Ocean|Gulf of Mexico|GHAAS 2047 Basin|9886| |1| 
+398|Grand Rapids, Mich.|Grand|42.96|-85.68|I3|179|United States|North America|Atlantic Ocean|Lake Michigan|St. Lawrence Basin|12691|303|1| 
+399|Chattahoochee, Florida|Apalachicola|30.7|-84.86|I4|12|United States|North America|Atlantic Ocean|Gulf of Mexico|Apalachicola Basin|44548| |1| 
+400|Louisville, Kentucky|Ohio|38.28|-85.78|I4|114|United States|North America|Atlantic Ocean|Mississippi|Mississippi Basin|236130|390|1| 
+401|Waterville, Ohio|Maumee|41.5|-83.71|I3|182|United States|North America|Atlantic Ocean|Lake Erie|St. Lawrence Basin|16395|303|1| 
+402|Brandford, Florida|Suwannee|29.95|-82.93|I5|1|United States|North America|Atlantic Ocean|Gulf of Mexico|Suwannee Basin|20409| |1| 
+403|Doctortown, Georgia|Altamaha|31.65|-81.82|I4|7|United States|North America|Atlantic Ocean|Atlantic Ocean|Altamaha Basin|35224| |1| 
+404|Deland, Florida|St. Johns|29.01|-81.38|I5|0|United States|North America|Atlantic Ocean|Atlantic Ocean|GHAAS 3265 Basin|7941| |1| 
+405|Clyd, Georgia|Savannah|32.53|-81.26|I4|4|United States|North America|Atlantic Ocean|Atlantic Ocean|Savannah Basin|25511| |1| 
+406|Pineville, South Carolina|Santee|33.45|-80.15|I4|7|United States|North America|Atlantic Ocean|Atlantic Ocean|Santee Basin|38073| |1| 
+407|Pee Dee, South Carolina|Pee Dee|34.2|-79.55|J4|8|United States|North America|Atlantic Ocean|Atlantic Ocean|Pee Dee Basin|22870| |1| 
+408|Lillington, North Carolina|Cape Fear|35.4|-78.81|J4|32|United States|North America|Atlantic Ocean|Atlantic Ocean|GHAAS 831 Basin|8910| |1| 
+409|Roanoke Rapids, N.C.|Roanoke|36.46|-77.63|J4|13|United States|North America|Atlantic Ocean|Atlantic Ocean|Roanoke Basin|21782| |1| 
+410|Richmond, Virginia|James|37.56|-77.55|J4|30|United States|North America|Atlantic Ocean|Atlantic Ocean|James Basin|17503| |1| 
+411|Washington, D.C.|Potomac|38.96|-77.15|J4|12|United States|North America|Atlantic Ocean|Atlantic Ocean|Potomac Basin|29940| |1| 
+412|Harrisburg, Pennsylvania|Susquehanna|40.25|-76.86|J3|88|United States|North America|Atlantic Ocean|Atlantic Ocean|Susquehanna Basin|62419| |1| 
+413|Massena, New York|St. Lawrence|44.7|-75.5|J3| |United States|North America|Atlantic Ocean|Gulf of St. Lawrence|St. Lawrence Basin|764600|311|1| 
+414|Trenton, New Jersey|Delaware|40.21|-74.78|J3|0|United States|North America|Atlantic Ocean|Atlantic Ocean|Delaware Basin|17560| |1| 
+415|Thompsonville, Connecticut|Connecticut|41.98|-72.6|J3|12|United States|North America|Atlantic Ocean|Atlantic Ocean|Connecticut Basin|25022| |1| 
+416|Lowell, Massachussets|Merrimack|42.65|-71.3|J3|2|United States|North America|Atlantic Ocean|Atlantic Ocean|Merrimack Basin|12005| |1| 
+417|Auburn, Maine|Androscoggin|44.06|-70.21|J3|33|United States|North America|Atlantic Ocean|Atlantic Ocean|GHAAS 900 Basin|8436| |1| 
+418|Bingham, Maine|Kennebec|45.05|-69.88|K3|101|United States|North America|Atlantic Ocean|Atlantic Ocean|Kennebec Basin|7045| |1| 
+419|West Enfield, Maine|Penobscot|45.23|-68.65|K3|38|United States|North America|Atlantic Ocean|Atlantic Ocean|Penobscot Basin|17275| |1| 
+421|The Gap|Fitzroy|-23.1|150.1|G5|18|Australia|Oceania|Pacific Ocean|Coral Sea|Fitzroy East Basin|135895| |1| 
+422|Lock 9 Upper|Murray|-34.19|141.6|F6|27|Australia|Oceania|Indian Ocean|Indian Ocean|Murray Basin|991000| |1| 
+423|Clare|Burdekin|-19.76|147.23|F4|28|Australia|Oceania|Pacific Ocean|Coral Sea|Burdekin Basin|129660| |1| 
+424|Mount Nancar|Daly|-13.83|130.73|E4|15|Australia|Oceania|Indian Ocean|Anson Bay, Timor Sea|Daly Basin|47000| |1| 
+425|Balclutha|Clutha|-46.23|169.73|H7|10|New Zealand|Oceania|Pacific Ocean|Pacific Ocean|Clutha Basin|20306| |1| 
+426|Dimond Gorge|Fitzroy|-17.68|126.01|D4|140|Australia|Oceania|Indian Ocean|King Sound, Timor Sea|Fitzroy West Basin|16800| |1| 
+427|Coolibah Pocket|Ord|-15.63|128.67|D4| |Australia|Oceania|Indian Ocean| |Ord Basin| | |1| 
+428|L. Manapouri Outlet|Waiau|-45.56|167.6|H7|175|New Zealand|Oceania|Pacific Ocean|Waiau|GHAAS 1623 Basin|4620| |1| 
+429|Milford|Cleddau|-44.68|167.93|F5|0|New Zealand|Oceania| |Cleddau| |155| |0|Area is less than 2000 km2
+430|Clyde|Clutha|-45.21|169.35|H7|134|New Zealand|Oceania|Pacific Ocean|Pacific Ocean|Clutha Basin|12020|425|1| 
+431|Mt. Cook Station|Jollie|-43.85|170.16|G5|39|New Zealand|Oceania| |Waitaki| |145| |0|Area is less than 2000 km2
+432|Kurow|Waitaki|-44.68|170.43|G5|204|New Zealand|Oceania|Pacific Ocean|Waitaki|GHAAS 960 Basin|9750| |1| 
+433|Te Kuha|Buller|-41.83|171.7|G5|25|New Zealand|Oceania|Pacific Ocean|Tasman Sea|GHAAS 5706 Basin|6350| |1| 
+434|Whitecliffs|Selwyn|-43.46|171.9|G5|282|New Zealand|Oceania| |Pacific Ocean| |164| |0|Area is less than 2000 km2
+435|Old House Rd.|Moutere|-41.23|173|G5|38|New Zealand|Oceania| |Moutere| |62| |0|Area is less than 2000 km2
+436|Tarkiki Road|Manganui|-39.23|174.26|G4|22|New Zealand|Oceania| |Waitara| |81| |0|Area is less than 2000 km2
+437|Kaitoke|Hutt|-41.05|175.2|G5|189|New Zealand|Oceania| |Hutt| |85| |0|Area is less than 2000 km2
+438|Taupo Outlet|Waikato|-38.7|176.06|G4|356|New Zealand|Oceania|Pacific Ocean|Lake Taupo|GHAAS 1653 Basin|3290| |1| 
+439|Fordale|Omakere|-40.01|176.73|G5|0|New Zealand|Oceania| |Pacific Ocean| |54| |0|Area is less than 2000 km2
+440|Cabimbao|Maipo|-33.78|-71.53|B6|35|Chile|South America|Pacific Ocean|Pacific Ocean|Maipo Basin|15040| |1| 
+441|Panamericana|Limari|-30.66|-71.53|B6|165|Chile|South America| |Pacific Ocean| |11261| |0|Second station in the same cell
+443|Corneche|Rapel|-33.98|-71.58|B6|16|Chile|South America|Pacific Ocean|Pacific Ocean|Rapel Basin|13186| |1| 
+444|Colonia|Baker|-47.35|-72.85|B7|105|Chile|South America|Pacific Ocean|Pacific Ocean|Baker (Chile) Basin|23736| |1| 
+447|Pto Berrio|Magdalena|6.5|-74.38|B2|1570|Colombia|South America|Atlantic Ocean|Caribbean Sea|Magdalena Basin|74410|1047|1| 
+448|Huechhulafquen|Chimehuin|-39|-71|B6| |Argentina|South America|Pacific Ocean| |Biobio Basin| | |1| 
+449|A.j.Amarillo|Calera|3.66|-79.66|B2| |Ecuador|South America| | | | | |0|Not on the STN-30 Land mass
+451|Desembocadura|Biobio|-36.83|-73.08|B6|2|Chile|South America|Pacific Ocean|Pacific Ocean|GHAAS 1047 Basin|21217| |1| 
+454|La Salvajina|Cauca|3.07|-76.57|B2|2320|Colombia|South America|Pacific Ocean|Magdalena|GHAAS 2480 Basin|3853| |1| 
+455|Asuncion|Paraguay|-24.89|-57.27|D5| |Paraguay|South America|Atlantic Ocean| |Parana Basin| |960|1| 
+456|D.j.San Francisco|Jubones|3.33|-79.5|B2| |Ecuador|South America| | | | | |0|Not on the STN-30 Land mass
+457|D.J. Oyacachi|Quljos|-0.32|-77.78|B3|900|Ecuador|South America| |Napo-Amazonica| |2504| |0|Second station in the same cell
+458|A.j.Pilaton|Toachi|0.33|-78.83|B2| |Ecuador|South America|Pacific Ocean| |GHAAS 1176 Basin| |468|1| 
+459|Concordia|Uruguay|-31.95|-58.04|D6|2|Argentina|South America|Atlantic Ocean|Plata|Uruguay Basin|249312|1129|1| 
+460|H.C.Casanas|Salado|-30.87|-60.95|C6| |Argentina|South America|Atlantic Ocean| |Parana Basin| | |1| 
+461|Banos|Pastaza|-1.38|-78.4|B3|1729|Ecuador|South America|Atlantic Ocean|Maranon - Amazonica|Amazon Basin|7694|514|1| 
+462|Quevedo|Quevedo|-0.01|-79.33|B3| |Ecuador|South America|Pacific Ocean| |Guayas Basin| | |1| 
+463|D.J.Lita|Mira|0.83|-78.33|B2| |Ecuador|South America|Pacific Ocean| |GHAAS 1038 Basin| | |1| 
+464|D.j.Cariyacu|Ambi|0.33|-78.16|B2| |Ecuador|South America|Pacific Ocean| |GHAAS 2279 Basin| | |1| 
+465|A.j.Guachalo|Granobles|0|-78.16|B2| |Ecuador|South America| | | | | |0|Second station in the same cell
+466|Vinces|Vinces|-1.53|-79.75|B3|41|Ecuador|South America| |Pacific Ocean| |5380| |0|Second station in the same cell
+467|Lechugal|Zapotal|-1.4|-79.4|B3|18|Ecuador|South America|Pacific Ocean|Pacific Ocean|Guayas Basin|2300| |1| 
+468|D. J. Sade|Esmeraldas|0.51|-79.4|B2|40|Ecuador|South America|Pacific Ocean|Pacific Ocean|GHAAS 1176 Basin|18800| |1| 
+469|Bucay|Chimbo|-1.16|-79.13|B3|297|Ecuador|South America| |Pacific Ocean| |2250| |0|Second station in the same cell
+477|P. Flores|Limay|-40.53|-70.43|B7|566|Argentina|South America|Atlantic Ocean|Negro|Negro Arg Basin|9800|506|1| 
+478|Pena Larga|Bocono|8.9|-70.05|B2|270|Venezuela|South America| |Orinoco| |1578| |0|Area is less than 2000 km2
+479|Pte. Torres|Tocuyo|10.2|-69.9|C1|400|Venezuela|South America|Atlantic Ocean|Caribbean Sea|GHAAS 647 Basin|3590| |1| 
+480|Buta Ranquil|Colorado|-37.1|-69.73|C6|850|Argentina|South America|Atlantic Ocean|Atlantic Ocean|Colorado (Arg) Basin|15300|494|1| 
+482|Paso Indios|Neuquen|-38.53|-69.41|C6|500|Argentina|South America|Atlantic Ocean|Negro|Negro Arg Basin|30200|506|1| 
+485|La Puntilla|San Juan|-31.51|-68.63|C6|715|Argentina|South America|Atlantic Ocean|Atlantic Ocean|Colorado (Arg) Basin|25000|494|1| 
+489|San Fernando|Apure|7.9|-67.43|C2|46|Venezuela|South America|Atlantic Ocean|Orinoco|Orinoco Basin|115000|1136|1| 
+491|El Vigia|Tuy|10.23|-66.63|C1|140|Venezuela|South America|Atlantic Ocean|Caribbean Sea|GHAAS 2877 Basin|3620| |1| 
+494|Pichi Mahuida|Colorado|-38.83|-64.83|C6|122|Argentina|South America|Atlantic Ocean|Atlantic Ocean|Colorado (Arg) Basin|22300| |1| 
+495|Miraflores|Juramento|-25.36|-64.83|C5|610|Argentina|South America|Atlantic Ocean|Parana|Parana Basin|34500|501|1| 
+497|El Sauce|Dulce|-27.58|-64.5|C5|250|Argentina|South America|Continent|Interior|GHAAS 148 Basin|20200| |1| 
+500|Embalse|Tercero|-32.16|-64.38|C6|650|Argentina|South America|Atlantic Ocean|Parana|Parana Basin|3300| |1| 
+501|Miraflores|Pasaje|-25.26|-64.36|C5|610|Argentina|South America|Atlantic Ocean|Parana|Parana Basin|34500|505|1| 
+502|Z. del Tigre|Bermejo|-23.1|-64.21|C5|296|Argentina|South America|Atlantic Ocean|Parana|Parana Basin|25000|960|1| 
+503|Cdad. Bolivar|Orinoco|8.15|-63.35|C2|43|Venezuela|South America| |Atlantic Ocean| |850000| |0|Bogus Discharge
+504|Porto Velho|Madeira|-8.76|-63.91|C3|90|Brazil|South America|Atlantic Ocean|Amazonas|Amazon Basin|950582|514|1| 
+505|El Arenal|Salado|-26.21|-63.75|C5|185|Argentina|South America|Atlantic Ocean|Parana|Parana Basin|40000|460|1| 
+506|P. Angostura|Negro|-40.43|-63.66|C7|320|Argentina|South America|Atlantic Ocean|Atlantic Ocean|Negro Arg Basin|95000| |1| 
+509|Plantain Island|Essequibo|5.85|-58.58|D2|18|Guyana|South America|Atlantic Ocean|Atlantic Ocean|Essequibo Basin|66600| |1| 
+510|Fecho dos Morros|Paraguay|-21.42|-57.92|D5|72|Brazil|South America|Atlantic Ocean|Parana|Parana Basin|470000|455|1| 
+511|Salto|Uruguay|-31.36|-57.93|D6|6|Uruguay|South America|Atlantic Ocean|Plata|Uruguay Basin|244000|459|1| 
+512|Palmar|Negro|-33.12|-57.18|D6|13|Uruguay|South America|Atlantic Ocean|Uruguay|Uruguay Basin|63000| |1| 
+513|Posadas|Parana|-27.36|-55.88|D5|80|Argentina|South America|Atlantic Ocean|Plata|Parana Basin|975375|960|1| 
+514|Obidos|Amazonas|-1.91|-55.55|D3|37|Brazil|South America|Atlantic Ocean|Atlantic Ocean|Amazon Basin|4618746| |1| 
+516|Guaira|Parana|-24.06|-54.26|D5|218|Brazil|South America|Atlantic Ocean|Atlantic Ocean|Parana Basin|802150|513|1| 
+517|Salto Osorio|Iguacu|-25.55|-53.05|D5|350|Brazil|South America|Atlantic Ocean|Parana-Plata|Parana Basin|46400|513|1| 
+518|Campos|Paraiba do Sul|-21.75|-41.33|E5|14|Brazil|South America|Atlantic Ocean|Atlantic Ocean|Paraiba do Sul Basin|55083| |1| 
+519|Juazeiro|Sao Francisco|-9.41|-40.5|E3|400|Brazil|South America|Atlantic Ocean|Atlantic Ocean|Sao Francisco Basin|510800| |1| 
+520|Jacintop|Jequitinhonha|-16.13|-40.28|E4|160|Brazil|South America|Atlantic Ocean|Atlantic Ocean|Jequitinhonha Basin|62365| |1| 
+662|Wabo|Purari|-6.99|145.05|D1|14|Papua New Guinea|Oceania|Pacific Ocean|Gulf of Papua|Purari Basin|28700| |1| 
+685|Hells Gate|Tauri|-7.81|146.11|D1|46|Papua New Guinea|Oceania|Pacific Ocean|Gulf of Papua|GHAAS 2875 Basin|2410| |1| 
+688|Kaunia|Teesta|25.7|89.5|G6| |Bangladesh|Asia|Indian Ocean| |Ganges Basin| |865|1| 
+722|Oued El-Abtal|Mina|35.49|0.68|C1|205|Algeria|Africa|Mediterranean Sea|Cheliff|Cheliff Basin|6635|723|1| 
+723|Sidi Belatar|Cheliff|36.02|0.26|C1|2|Algeria|Africa|Mediterranean Sea|Mediterranean Sea|Cheliff Basin|43750| |1| 
+724|Ammi Moussa|Rhiou|35.87|1.12|C1|140|Algeria|Africa|Mediterranean Sea|Cheliff|Cheliff Basin|2398|723|1| 
+725|Fer a Cheval|Mazafran|36.66|2.81|C1|10|Algeria|Africa| |Mediterranean Sea| |1912| |0|Not on the STN-30 Land mass
+726|Keddara|Boudouaou|36.65|3.41|C1|60|Algeria|Africa| |Mediterranean Sea| |829| |0|Area is less than 2000 km2
+727|Lakhdaria|Isser|36.61|3.58|C1|90|Algeria|Africa| |Mediterranean Sea| |4149| |0|Second station in the same cell
+728|Baghilia|Sebaou|36.8|3.86|C1|20|Algeria|Africa| |Mediterranean Sea| |2501| |0|Second station in the same cell
+729|Sidi Yahia|Bouselam|36.46|4.45|C1|220|Algeria|Africa|Mediterranean Sea|Soummam|GHAAS 1274 Basin|4309| |1| 
+730|Oued Athmania|Rhumel|36.23|6.29|C1|710|Algeria|Africa| |El-Kebir| |1220| |0|Area is less than 2000 km2
+731|Bouchegouf|Melah|36.27|7.71|C1|95|Algeria|Africa| |Seybouse| |552| |0|Area is less than 2000 km2
+733|Haffouz|Merguellil|35.63|9.66|C1|250|Tunisia|Africa| |Lac Kalbia| |675| |0|Area is less than 2000 km2
+734|Sloughia|Mejerda|36.58|9.51|C1|67|Tunisia|Africa|Mediterranean Sea|Mediterranean Sea|Medjerda Basin|20895| |1| 
+735|Tortosa|Ebro|40.82|0.51|D4|8|Spain|Europe|Mediterranean Sea|Mediterranean Sea|Ebro Basin|84230| |1| 
+736|Mas d'Agenais|Garonne|44.42|0.24|D4|17|France|Europe|Atlantic Ocean|Atlantic Ocean|Garonne Basin|52000| |1| 
+737|Montjean|Loire|47.38|-0.8|C4|9|France|Europe|Atlantic Ocean|Atlantic Ocean|Loire Basin|110000| |1| 
+738|Gien|Loire|47.68|2.58|D4|120|France|Europe|Atlantic Ocean|Atlantic Ocean|Loire Basin|35890|179|1| 
+739|Paris|Seine|48.83|2.25|D4|26|France|Europe|Atlantic Ocean|Atlantic Ocean|Seine Basin|44320| |1| 
+740|Beaucaire|Rhone|43.92|4.67|D4|3|France|Europe|Mediterranean Sea|Mediterranean Sea|Rhone Basin|95590| |1| 
+741|Givors|Rhone|45.75|4.83|D4|148|France|Europe|Mediterranean Sea|Mediterranean Sea|Rhone Basin|51080|740|1| 
+742|Basel (St. Alban)|Rhine|47.56|7.58|D4|246|Switzerland|Europe|North Sea|North Sea|Rhine Basin|35921|745|1| 
+743|Piacenza|Po|45.08|9.73|D4|42|Italy|Europe|Mediterranean Sea|Adriatic Sea|Po Basin|42030|750|1| 
+744|Woodend|Dee|57.05|-2.6|C3|71|United Kingdom|Europe| |North Sea| |1370| |0|Area is less than 2000 km2
+745|Rees|Rhine|51.76|6.4|D3|10|Germany|Europe|North Sea|North Sea|Rhine Basin|159680| |1| 
+746|Alergard|Skjern|55.95|8.7|D3|7|Denmark|Europe| |North Sea| |1040| |0|Area is less than 2000 km2
+747|Intschede|Weser|52.96|9.13|D3|5|Germany|Europe|North Sea|North Sea|Weser Basin|37790| |1| 
+748|Astedbro|Gudena|55.9|9.6|D3|49|Denmark|Europe| |Kattegat| |187| |0|Area is less than 2000 km2
+749|Bafoussam|Noun|5.5|10.5|D4|987|Cameroon|Africa|Atlantic Ocean|Sanaga|Sanaga Basin|4700|28|1| 
+750|Buretto|Po|44.96|10.39|E4|20|Italy|Europe|Mediterranean Sea|Adriatic Sea|Po Basin|55183|751|1| 
+751|Pontelagoscuro|Po|44.93|11.52|E4|8|Italy|Europe|Mediterranean Sea|Adriatic Sea|Po Basin|70091| |1| 
+752|Hofkirchen|Danube|48.67|13.12|E4|301|Germany|Europe|Black Sea|Black Sea|Danube Basin|47495|754|1| 
+754|Bratislava|Danube|48.12|17.1|E4|128|Czech Republic|Europe|Black Sea|Black Sea|Danube Basin|131338|757|1| 
+755|Donji Miholjac|Drava|45.78|18.2|E4|88|Croatia|Europe|Black Sea|Danube|Danube Basin|37142|1380|1| 
+756|Bezdan|Danube|45.85|18.85|E4|81|Serbia|Europe|Black Sea|Black Sea|Danube Basin|210250|1380|1| 
+757|Nagymaros|Danube|47.78|18.95|E4|100|Hungary|Europe|Black Sea|Black Sea|Danube Basin|183533|756|1| 
+758|Ndroq|Erzen|41.27|19.65|E4|481|Albania|Europe| |Adriatic Sea| |663| |0|Area is less than 2000 km2
+759|Wittenberge|Elbe|52.99|11.75|E3|16|Germany|Europe|North Sea|North Sea|Elbe Basin|123532| |1| 
+760|Solbergfoss|Glomma|59.6|11.12|E3|100|Norway|Europe|North Sea|North Sea|Glama Basin|40221| |1| 
+761|Lille Linde|Tryggevalde|55.34|12.2|E3|8|Denmark|Europe| |Stevens| |131| |0|Area is less than 2000 km2
+762|Vanersborg|Vannern - Gota|58.38|12.32|E3|44|Sweden|Europe|North Sea|North Sea|Gota Basin|46830| |1| 
+763|Gozdowice|Odra|52.76|14.32|E3|3|Poland|Europe|Baltic Sea|Baltic Sea|Odra Basin|109729| |1| 
+764|Tczew|Wisla|54.09|18.8|E3|0|Poland|Europe|Baltic Sea|Baltic Sea|Wisla Basin|194376| |1| 
+765|Ceatal Izmail|Danube|45.18|28.8|F4|1|Romania|Europe|Black Sea|Black Sea|Danube Basin|807000| |1| 
+766|Kokel|Devolli|41.19|20.19|F4|1140|Albania|Europe| |Adriatic Sea| |1880| |0|Area is less than 2000 km2
+767|Ura e Dodes|Drini i Zi|41.9|20.34|F4|1130|Albania|Europe|Mediterranean Sea|Adriatic Sea|GHAAS 581 Basin|5400|208|1| 
+768|Szeged|Tisza|46.25|20.17|F4|74|Hungary|Europe|Black Sea|Danube|Danube Basin|138408|1381|1| 
+769|Ljubicevski Most|Velika Morava|44.39|21.12|F4|37|Serbia|Europe|Black Sea|Danube|Danube Basin|34345|772|1| 
+770|Polgar|Tisza|47.86|21.12|F4|88|Hungary|Europe|Black Sea|Danube|Danube Basin|62723|1276|1| 
+771|Krupnik|Struma|42.38|22.7|F4|502|Bulgaria|Europe| |White Sea| |2171| |0|Bogus Discharge
+772|Drobeta-Turnu Severin|Danube|44.7|22.42|F4|44|Romania|Europe|Black Sea|Black Sea|Danube Basin|576232|765|1| 
+773|Razdavitza|Struma|41.83|23.15|F4|261|Bulgaria|Europe|Mediterranean Sea|White Sea|Strymon Basin|6777| |1| 
+774|Harmanli|Maritsa|41.92|25.93|F4|66|Bulgaria|Europe|Mediterranean Sea|White Sea|Evros Basin|19693| |1| 
+775|Gzozdevo|Kamtehiya|43.02|27.81|F4|14|Bulgaria|Europe|Black Sea|Black Sea|GHAAS 1318 Basin|4857| |1| 
+776|Bendery|Dnestr|46.8|29.68|F4|2|Ukraine|Europe|Black Sea|Black Sea|Dnestr Basin|66100| |1| 
+777|Warsaw|Wisla|52.25|21.03|F3|76|Poland|Europe|Baltic Sea|Baltic Sea|Wisla Basin|84857|764|1| 
+778|Wyszkow|Bug|52.58|21.45|F3|82|Poland|Europe|Baltic Sea|Vistula|Wisla Basin|39119|764|1| 
+779|Smalininkai|Neman|55.01|22.52|F3|7|Lithuania|Europe|Baltic Sea|Baltic Sea|Nemanus Basin|81200| |1| 
+780|Daugavpils|Western Dvina|55.88|26.68|F3|86|Latvia|Europe|Baltic Sea|Baltic Sea|Daugava Basin|64600| |1| 
+781|Taivalkoski|Kemi|65.95|24.7|F2|17|Finland|Europe|Baltic Sea|Baltic Sea|Kemijoki Basin|50790| |1| 
+782|Pernoo|Kymijoki|60.8|26.75|F2|19|Finland|Europe|Baltic Sea|Baltic Sea|Kymijoki Basin|36535| |1| 
+783|Imatra|Vuoksi|61.15|28.77|F2|72|Finland|Europe|Baltic Sea|Lake Ladoga|Neva Basin|61275|807|1| 
+784|Hoima / Fort Portal Rd (Muzizi)|Muzizi|0.86|30.73|F4|1137|Uganda|Africa|Mediterranean Sea|Lake Albert|Nile Basin|2603|1523|1| 
+785|Hoima / Fort Portal Rd (Nkussi)|Nkusi|1.13|31|F4| |Uganda|Africa| |Lake Albert / Lake Seseseko| |1815| |0|Area is less than 2000 km2
+786|Oyean Res. (Owen Falls)|Lake Victoria|0.46|33.11|F4| |Uganda|Africa|Mediterranean Sea|Victoria Nile|Nile Basin|269000|787|1| 
+787|Mbulamuti|Victoria Nile|0.81|33.03|F4|1132|Uganda|Africa|Mediterranean Sea|Albert Nile|Nile Basin| |1523|1| 
+788|Bulucheke / Butaleja|Manafwa|1|34.35|F4|11002|Uganda|Africa| |Lake Kyoga| |65| |0|Area is less than 2000 km2
+789|Gambella|Baro|8.25|34.58|F4| |Ethiopia|Africa|Mediterranean Sea|White Nile|Nile Basin|23461|1226|1| 
+790|Abelti|Ghibe|7.87|37.53|F4| |Ethiopia|Africa|Continent|Omo|GHAAS 184 Basin|15746| |1| 
+791|Chenemassa|Genale|5.51|39.68|F4| |Ethiopia|Africa|Indian Ocean|Indian Ocean|Jubba Basin|10574|1545|1| 
+792|Dodolla Bridge|Wabi Shebele Wenz|7.01|39.03|F4| |Ethiopia|Africa| |Indian Ocean| |1035| |0|Area is less than 2000 km2
+793|Kessie|Blue Nile (Abbay River)|11.15|38.18|F3| |Ethiopia|Africa|Mediterranean Sea|Nile|Nile Basin|65784|1225|1| 
+794|Embamadre|Tekeze|13.73|38.2|F3| |Ethiopia|Africa|Mediterranean Sea|Nile|Nile Basin|45694|1522|1| 
+795|Obstacle Bridge|Jordan|33.33|35.63|B5|67|Israel|Asia| |Dead Sea| |1376| |0|Area is less than 2000 km2
+796|Misis|Ceyhan|36.95|35.63|B5|13|Turkey|Asia|Mediterranean Sea|Mediterranean Sea|Ceyhan Basin|20466| |1| 
+797|Hameh|Barada|33.53|36.23|B5|760|Syria|Asia| |Internal basins| |467| |0|Area is less than 2000 km2
+798|Qussair|Assi|34.5|36.53|B5|513|Syria|Asia| |Mediterranean Sea| |1890| |0|Area is less than 2000 km2
+799|Jisr Echigour|Assi|35.76|36.35|B5|128|Syria|Asia|Mediterranean Sea|Mediterranean Sea|Asi Basin|5130| |1| 
+800|Youssef Pacha|Euphrates|36.36|38.18|B5|294|Syria|Asia|Indian Ocean|Persian Gulf|Shatt el Arab Basin|97000|811|1| 
+801|Keban|Euphrates (Firat)|38.82|38.77|B5|688|Turkey|Asia|Indian Ocean|Persian Gulf|Shatt el Arab Basin|63875|800|1| 
+802|Botbasi|Sakarya|40.96|30.51|B4|8|Turkey|Asia|Black Sea|Black Sea|Sakarya Basin|55322| |1| 
+803|Aleksandrovka|Southern Bug|47.72|31.18|G4|1|Ukraine|Europe|Black Sea|Black Sea|Bug Basin|46200| |1| 
+804|Inozu|Kizil|41.29|35.55|B4|47|Turkey|Asia|Black Sea|Black Sea|Kizil Irmak Basin|75121| |1| 
+805|Dnieper Hydroelectric Plant|Dnieper|47.92|35.15|G4|44|Ukraine|Europe|Black Sea|Black Sea|Dnieper Basin|463000| |1| 
+806|Tikhovsky|Kuban|45.15|38.32|G4|5|Russia|Europe|Black Sea|Sea of Azov|Kuban Basin|48100| |1| 
+807|Novosaratovka|Neva|59.8|30.72|G3|5|Russia|Europe|Baltic Sea|Baltic Sea|Neva Basin|281000| |1| 
+808|Chernigov|Desna|51.45|31.37|G3|104|Ukraine|Europe|Black Sea|Dnieper|Dnieper Basin|81400|805|1| 
+809|Porog|Onega|63.82|38.27|G2|10|Russia|Europe|Barents Sea|White Sea|Onega Basin|55770| |1| 
+810|Awash|Awash|9.33|40.15|G4| |Ethiopia|Africa|Continent|Lake Abe|GHAAS 174 Basin|18710| |1| 
+811|Hit D.S.|Euphrates|33.83|42.72|C5|56|Iraq|Asia|Indian Ocean|Persian Gulf|Shatt el Arab Basin|264100| |1| 
+812|Mosul|Tigris|36.32|43.15|C5|215|Iraq|Asia|Indian Ocean|Persian Gulf|Shatt el Arab Basin|54900|813|1| 
+813|Baghdad|Tigris|33.3|44.38|C5|34|Iraq|Asia|Indian Ocean|Persian Gulf|Shatt el Arab Basin|134000| |1| 
+814|Gilvan|Ghezalozan|36.76|49.16|C5|320|Iran|Asia|Caspian Sea|Caspian Sea|GHAAS 244 Basin|49300| |1| 
+815|Razdorskaya|Don|47.5|40.67|H4|58|Russia|Europe|Black Sea|Sea of Azov|Don Basin|378000| |1| 
+816|Archedinskaya|Medveditsa|49.82|43.17|H4|64|Russia|Europe|Black Sea|Don|Don Basin|33700|815|1| 
+817|Volgograd Hydroelectric Plant|Volga|48.76|44.72|H4|-11|Russia|Europe|Caspian Sea|Caspian Sea|Volga Basin|1360000| |1| 
+818|Surra|Kura|40.12|48.67|H4|-21|Azerbaijan|Asia|Caspian Sea|Caspian Sea|Kura Basin|178000| |1| 
+819|Kirov|Viatka|58.65|49.55|H3|103|Russia|Europe|Caspian Sea|Kama|Volga Basin|48300|817|1| 
+820|Ust - Pinega|Northern Dvina|64.1|42.17|H2|2|Russia|Europe|Barents Sea|White Sea|Dvina Basin|348000| |1| 
+821|Malonisogorskaya|Mezen|64.95|45.67|H2|19|Russia|Europe|Barents Sea|White Sea|Mezen Basin|56400| |1| 
+822|Pol-e-Shale|Karun|31.85|50.1|D5|690|Iran|Asia|Indian Ocean|Persian Gulf|Karun Basin|22913|108|1| 
+826|Kushum|Ural|50.85|51.28|D3|16|Kazakhstan|Asia|Caspian Sea|Caspian Sea|Ural Basin|190000| |1| 
+827|Birsk|Belaya|55.37|55.55|I3|186|Russia|Europe|Caspian Sea|Kama|Volga Basin|121000|817|1| 
+829|Ust - Tsilma|Petchora|65.47|52.25|I2|11|Russia|Europe|Barents Sea|Barents Sea|Pechora Basin|248000| |1| 
+830|Adzva|Usa|66.65|59.1|I2|39|Russia|Europe|Barents Sea|Petchora|Pechora Basin|54700|829|1| 
+831|Kotri|Indus|25.35|68.35|E6|13|Pakistan|Asia|Indian Ocean|Arabian Sea|Indus Basin|832418| |1| 
+832|Tyumen-Aryk|Syr-Darya|44.05|67.05|E4|156|Kazakhstan|Asia|Aral Sea|Aral Sea|Syr-Darya Basin|219000| |1| 
+833|Petropavlovsk|Ishim|54.97|69.12|E3|86|Kazakhstan|Asia|Kara Sea|Irtysh|Ob Basin|118000|835|1| 
+834|Sosvinskaya Kultbaza|Northern Sosva|63.67|61.88|E2|12|Russia|Asia|Kara Sea|Ob|Ob Basin|65200|835|1| 
+835|Salekhard|Ob|66.57|66.53|E2|0|Russia|Asia|Kara Sea|Kara Sea|Ob Basin|2430000| |1| 
+836|Alamatti|Krishna|16.33|75.55|F7|486|India|Asia|Indian Ocean|Bay of Bengal|Krishna Basin|36286|840|1| 
+837|Krisnarajasagar|Cauvery|12.42|76.58|F7|715|India|Asia|Indian Ocean|Bay of Bengal|Cauweri Basin|10600|1263|1| 
+838|Ramapuram|Hagari|15.63|76.97|F7|349|India|Asia|Indian Ocean|Tungabhadra - Krishna - Bengal|Krishna Basin|23500|122|1| 
+839|Peranai|Vaigai|10.1|77.8|F7|279|India|Asia|Indian Ocean|Bay of Bengal|GHAAS 685 Basin|2253| |1| 
+840|Deosugur|Krishna|16.35|76.82|F7| |India|Asia|Indian Ocean|Krishna - Bay of Bengal|Krishna Basin| |856|1| 
+842|Tirukoilur Anicut|Ponnaiyar|12.98|79.26|F7|83|India|Asia|Indian Ocean|Bay of Bengal|Palar Basin|12888| |1| 
+843|Nellore|Penner|14.65|79.98|F7| |India|Asia|Indian Ocean|Bay of Bengal|Penner Basin|53290| |1| 
+844|Panjnad|Chenab|29.35|71.3|F6|99|Pakistan|Asia|Indian Ocean|Indus|Indus Basin|280238|831|1| 
+845|Kathore|Tapti|21.28|72.95|F6| |India|Asia|Indian Ocean|Khambhat-ki-Khari - Arabian Sea|Tapti Basin|61575| |1| 
+846|Garudeshwar|Narmada|21.92|73.65|F6| |India|Asia|Indian Ocean|Khambhat-ki-Khari - Arabian Sea|Narmada Basin|89345| |1| 
+847|Sevalia|Mahi|22.3|73.03|F6| |India|Asia|Indian Ocean|Khambhat-ki-Khari - Arabian Sea|Mahi Basin|33670| |1| 
+849|Attock|Indus|33.9|72.25|F5|258|Pakistan|Asia|Indian Ocean|Arabian Sea|Indus Basin|265122|831|1| 
+850|Munshibagh|Jhelum|34.08|73.93|F5| |India|Asia| | | | | |0|Bogus Discharge
+852|Samburg|Pur|67.08|78.15|F2|-2|Russia|Asia|Kara Sea|Kara Sea|Pur-Taz Basin|95100| |1| 
+853|Putupaula|Kalu Ganga|6.61|80.06|G8|0|Sri Lanka|Asia| |Indian Ocean| |2598| |0|Not on the STN-30 Land mass
+854|Hanwella|Kelani Ganga|6.91|80.06|G8|0|Sri Lanka|Asia| |Indian Ocean| |1782| |0|Not on the STN-30 Land mass
+855|Peradeniya|Mahaweli Ganga|7.28|80.62|G8|464|Sri Lanka|Asia| |Indian Ocean| |1189| |0|Area is less than 2000 km2
+856|Vijayawada|Krishna|16.52|80.62|G7| |India|Asia|Indian Ocean|Bay of Bengal|Krishna Basin|251355| |1| 
+857|Parthagudem|Indravati|18.82|80.35|G7|86|India|Asia|Indian Ocean|Bay of Bengal|Godavari Basin|40000|858|1| 
+858|Polavaram|Godavari|16.92|81.78|G7| |India|Asia|Indian Ocean|Bay of Bengal|Godavari Basin|299320| |1| 
+859|Kotta|Kolab|18.78|82.52|G7|573|India|Asia|Indian Ocean|Bay of Bengal|Godavari Basin|2041|858|1| 
+860|Kaimundi|Mahanadi|20.42|83.67|G6| |India|Asia|Indian Ocean|Bay of Bengal|Mahanadi Basin|132090| |1| 
+861|Barkot Br.|Brahmani|21|85|G6| |India|Asia|Indian Ocean| |Brahmani Basin| | |1| 
+862|Kokpara|Subarnarekha|23|85|G6| |India|Asia|Indian Ocean| |Subamarekha Basin| | |1| 
+863|Farakka|Ganga|24.83|87.92|G6| |India|Asia|Indian Ocean| |Ganges Basin| | |1| 
+864|Paksay|Ganges|24.08|89.03|G6|14|Bangladesh|Asia| |Bay of Bengal| |846900| |0|Bogus Discharge
+865|Bahadurabad|Brahmaputra|25.18|89.66|G6|19|Bangladesh|Asia|Indian Ocean|Bay of Bengal|Ganges Basin|636130| |1| 
+875|Lea Park|North Saskatchewan|52.36|-107.53|G2| |Canada|North America|Hudson Bay| |Nelson Basin| |285|1| 
+878|Tomsk|Tom|56.58|84.87|G3|69|Russia|Asia|Kara Sea|Ob|Ob Basin|57000|835|1| 
+880|Igarka|Yenisey|67.48|86.5|G2|2|Russia|Asia|Kara Sea|Kara Sea|Yenisey Basin|2440000| |1| 
+882|Mathanguri|Manas|26.41|90.84|H6| |India|Asia| | | | | |0|Bogus Discharge
+883|Panda|Brahmaputra|26.13|91.7|H6|49|India|Asia|Indian Ocean|Ganga|Ganges Basin|405000|865|1| 
+884|N.T. Road Crossing|Jai Bhoreili|26.93|92.89|H6|74|India|Asia|Indian Ocean|Brahmaputra|Ganges Basin|10820|883|1| 
+885|Ulgi|Kobdo|48.98|89.95|G4|47|Mongolia|Asia|Continent|Lake Khara-Us|GHAAS 97 Basin|22057| |1| 
+886|Kuzmovka|Podkamennaya Tungunska|62.22|92.02|H2|43|Russia|Asia|Kara Sea|Yenisei|Yenisey Basin|218000|880|1| 
+888|Nakhon - Sawan|Chao Phraya|15.67|100.11|I7|15|Thailand|Asia|Pacific Ocean|Gulf of Siam|Chao Phraya Basin|110569| |1| 
+889|Yasothon|Chi|15.78|104.14|I7|117|Thailand|Asia|Pacific Ocean|Mekong|Mekong Basin|43100|890|1| 
+890|Ubon Ratchathani|Mun|15.22|104.86|I7|101|Thailand|Asia|Pacific Ocean|Gulf of Siam|Mekong Basin|106673| |1| 
+891|Chiang Saen|Mekong|20.27|100.09|I6|357|Thailand|Asia|Pacific Ocean|South China Sea|Mekong Basin|189000|1248|1| 
+892|Muren|Delgermuren|49.58|100.13|I4|1259|Mongolia|Asia|Kara Sea|Selenga|Yenisey Basin|16300|893|1| 
+893|Chutic|Selenge|49.36|102.83|I4|46|Mongolia|Asia|Kara Sea|Lake Baikal|Yenisey Basin|92300|880|1| 
+894|Orkhon|Orkhon|48.65|103.56|I4|46|Mongolia|Asia|Kara Sea|Selenga|Yenisey Basin|23600|880|1| 
+896|Ulan-Bator|Tola|47.9|106.91|I4|1254|Mongolia|Asia|Kara Sea|Orkhon|Yenisey Basin|6300|880|1| 
+897|Shorokhovo|Kirenga|57.67|108.07|I3|254|Russia|Asia|Laptev Sea|Lena|Lena Basin|46500|930|1| 
+898|Wuzhou 3|Xi Jiang|23.48|111.3|J6| |China|Asia|Pacific Ocean|Zhu Jiang / Pearl River|Zhujiang Basin|329705| |1| 
+899|Hengshi|Bei Jiang|23.85|113.26|J6|27|China|Asia|Pacific Ocean|Zhu Jiang / Pearl River|Zhujiang Basin|34013| |1| 
+900|Boluo|Dong Jiang|23.16|114.3|J6|7|China|Asia|Pacific Ocean|Zhu Jiang / Pearl River|Dong Jiang Basin|25325| |1| 
+901|Sanmenxia|Huang He|34.81|111.36|J5|280|China|Asia|Pacific Ocean|Yellow Sea|Huang He Basin|688421| |1| 
+902|Hankou|Chang Jiang|30.58|114.28|J5|28|China|Asia|Pacific Ocean|East China Sea|Chang Jiang Basin|1488036|903|1| 
+903|Datong|Chang Jiang|30.76|117.61|J5|19|China|Asia|Pacific Ocean|East China Sea|Chang Jiang Basin|1705383| |1| 
+904|Bengbu|Huai He|32.93|117.38|J5|25|China|Asia|Pacific Ocean|Chang Jiang|Huai Basin|121330| |1| 
+905|Undurkham|Kerulen|47.31|110.66|J4|46|Mongolia|Asia|Pacific Ocean|Lake Dalai|Amur Basin|39400|932|1| 
+906|Bodaibo|Vitim|57.9|114.25|J3|235|Russia|Asia|Laptev Sea|Lena|Lena Basin|186000|930|1| 
+907|Malykai|Markha|63.43|117.05|J2|105|Russia|Asia|Laptev Sea|Vilyui|Lena Basin|89600|930|1| 
+908|Saskylakh|Anabar|71.98|113.95|J1|3|Russia|Asia|Laptev Sea|Laptev Sea|Anabar Basin|78500| |1| 
+909|Pangsud, Kabonkalan, Negros Occ.|Hilabangan|9.99|122.88|K8|11|Philippines|Asia| |Ilog| |431| |0|Area is less than 2000 km2
+910|Marbel 8, Koronadal, Cotabato|Marbel|6.46|124.66|K8|104|Philippines|Asia| |Cotabato| |133| |0|Area is less than 2000 km2
+911|Bayugan I, Agusan|Andanan|8.78|125.85|K8| |Philippines|Asia| |Agusan| |201| |0|Area is less than 2000 km2
+912|Calyan, Pototan, Iloilo|Jalaur|10.93|122.66|K7|9|Philippines|Asia| |Panay| |1499| |0|Not on the STN-30 Land mass
+913|Sto Domingo, Nabua, Cam. Sur|Bicol|13.4|123.32|K7|0|Philippines|Asia| |San Miguel Bay| |884| |0|Area is less than 2000 km2
+914|Mirim|Taedong|39.01|125.78|K5|3|North Korea|Asia|Pacific Ocean|Korea Bay - Yellow Sea|GHAAS 1287 Basin|12175| |1| 
+916|Na Ju|Yeong San|35.01|126.23|K5|2|South Korea|Asia| |Yellow Sea| |2000| |0|Not on the STN-30 Land mass
+917|Gyu Am|Geum|36.26|126.9|K5|1|South Korea|Asia|Pacific Ocean|Yellow Sea|GHAAS 891 Basin|8261| |1| 
+918|Samdung|Namgang|38.98|126.18|K5|37|North Korea|Asia|Pacific Ocean|Taedonggang|GHAAS 1221 Basin|2727| |1| 
+919|Dokchon|Taedong|39.75|126.3|K5|123|North Korea|Asia|Pacific Ocean|Korea Bay - Yellow Sea|GHAAS 1287 Basin|3300|914|1| 
+920|Sing Jeung|Seom Jin|35.18|127.56|K5|8|South Korea|Asia|Pacific Ocean|Yellow Sea|GHAAS 1549 Basin|4480| |1| 
+921|Yeo Ju|Han|37.3|127.65|K5|33|South Korea|Asia|Pacific Ocean|Yellow Sea|Han Basin|11132|166|1| 
+922|Wae Gwan|Nag Dong|36.1|128.4|K5|19|South Korea|Asia|Pacific Ocean|Yellow Sea|Nag Dong Basin|11195|167|1| 
+923|Jin Dong|Nag Dong|35.19|128.5|K5|2|South Korea|Asia| |Korea Strait| |20403| |0|Second station in the same cell
+924|Haerbin|Songhua Jiang|45.76|126.58|K4|120|China|Asia|Pacific Ocean|Heilong Jiang|Amur Basin|390526|932|1| 
+925|Kumchang|Amnokgang|41.53|127.13|K4|416|North Korea|Asia|Pacific Ocean|Korea Bay - Yellow Sea|Yalu Basin|18245| |1| 
+926|Yenam|Sodusu|41.73|128.83|K4|1102|North Korea|Asia| |Tumangang| |720| |0|Area is less than 2000 km2
+930|Kusur|Lena|70.89|127.41|K1|0|Russia|Asia|Laptev Sea|Laptev Sea|Lena Basin|2430000| |1| 
+932|Komsomolsk|Amur|50.63|137.12|L3|13|Russia|Asia|Pacific Ocean|Sea of Okhotsk|Amur Basin|1730000| |1| 
+933|Dzhangky|Yana|69.67|135.33|L2|36|Russia|Asia|Laptev Sea|Laptev Sea|Yana Basin|216000| |1| 
+936|Vorontsovo|Indigirka|69.58|147.35|M2|4|Russia|Asia|East Siberian Sea|East Siberian Sea|Indigirka Basin|305000| |1| 
+937|Srednekolymsk|Kolyma|67.37|153.67|N2|8|Russia|Asia|East Siberian Sea|East Siberian Sea|Kolyma Basin|361000| |1| 
+938|Kluchi|Kamchatka|56.63|161.05|O3|12|Russia|Asia|Pacific Ocean|Pacific Ocean|Kamchatka Basin|45600| |1| 
+939|Kamenskoe|Penzhina|62.42|166.03|O2|15|Russia|Asia|Pacific Ocean|Sea of Okhotsk|Penzhina Basin|71600| |1| 
+941|Kayes|Niari|-4.16|13.3|D5|115|Congo|Africa| |Kouilou| |17190| |0|Second station in the same cell
+942|Donguila|Nyanga|-2.86|11.96|D5|200|Congo|Africa|Atlantic Ocean|Atlantic Ocean|Nyanga Basin|5800|1491|1| 
+943|Sounda|Kouilou|-4.1|12.06|D5|8|Congo|Africa|Atlantic Ocean|Atlantic Ocean|Kouilou Basin|55010| |1| 
+944|IFAC|Loudima|-4.13|13.06|D5|115|Congo|Africa|Atlantic Ocean|Kouilou|Kouilou Basin|3990|943|1| 
+945|Kimpanzou|Foulakary|-4.6|14.93|D5|380|Congo|Africa|Atlantic Ocean|Congo|Zaire Basin|2980| |1| 
+946|Gamboma|Nkeni|-1.9|15.85|D5|304|Congo|Africa|Atlantic Ocean|Congo|Zaire Basin|6200|1534|1| 
+947|Brazzaville|Congo|-4.26|15.31|D5|270|Congo|Africa| |Atlantic Ocean| |3475000| |0|Second station in the same cell
+948|Ouesso|Sangha|1.61|16.05|D4|236|Congo|Africa|Atlantic Ocean|Congo|Zaire Basin|158350|1534|1| 
+949|Wusakili|Kafue|-12.88|28.25|E6|1559|Zambia|Africa|Indian Ocean|Zambezi|Zambezi Basin|9088|1536|1| 
+950|Mbarara Water Supply|Rwizi|-0.61|30.65|F5|1378|Uganda|Africa|Mediterranean Sea|Lake Victoria|Nile Basin|2070|786|1| 
+951|Ord River Homestead|Ord|-17.38|128.85|D4|140|Australia|Oceania|Indian Ocean|Cambridge Gulf, Timor Sea|Ord Basin|19600|427|1| 
+952|Mine Liliane|Tontouna|-21.95|166.28|H5|30|New Caledonia|Oceania| |Coral Sea| |380| |0|Area is less than 2000 km2
+960|Corrientes|Parana|-27.46|-58.85|D5|420|Argentina|South America|Atlantic Ocean|Plata|Parana Basin|2300000| |1| 
+961|Locotal|Santa Isabel|-17.04|-66.02|C4|1800|Bolivia|South America| |Amazonas| |198| |0|Area is less than 2000 km2
+962|Angosto del Bala|Beni|-14.55|-67.55|C4|284|Bolivia|South America|Atlantic Ocean|Amazonas|Amazon Basin|69000|504|1| 
+963|Villa Barrientos|Tamampaya|-16.32|-67.25|C4|1050|Bolivia|South America| |Amazonas| |1135| |0|Area is less than 2000 km2
+964|Ulloma|Desaguadero|-17.4|-68.45|C4|3775|Bolivia|South America| |Endorreica / Altiplano| |1802| |0|Area is less than 2000 km2
+965|Achupallas|Salado|-35.08|-60.11|C6|41|Argentina|South America|Atlantic Ocean|Plata|Salado Basin|29000| |1| 
+975|Winneba|Ayensu|5.38|-0.6|B4|4|Ghana|Africa| |Gulf of Guinea| |1658| |0|Area is less than 2000 km2
+976|Prestea|Ankobra|5.27|-2.11|B4|19|Ghana|Africa|Atlantic Ocean|Gulf of Guinea|GHAAS 1687 Basin|4268| |1| 
+977|Bac|Diani|8.05|-9.06|B4|375|Guinea|Africa|Atlantic Ocean|Atlantic Ocean|GHAAS 1098 Basin|4095|1499|1| 
+978|Kankan|Mile|10.36|-9.34|B3|361|Guinea|Africa|Atlantic Ocean|Niger|Niger Basin|9900|61|1| 
+979|Bensekrane|Isser|35.07|-1.22|B1|287|Algeria|Africa| |Tafna| |1118| |0|Area is less than 2000 km2
+980|Pierre du Chat|Tafna|35.14|-1.44|B1|60|Algeria|Africa|Mediterranean Sea|Mediterranean Sea|GHAAS 1391 Basin|7245| |1| 
+983|Alcala del Rio|Guadalquivir|37.52|-5.98|C5|10|Spain|Europe|Atlantic Ocean|Atlantic Ocean|Guadalquivir Basin|46995| |1| 
+984|Pulo do Lobo|Guadiana|37.8|-7.63|C5|30|Portugal|Europe|Atlantic Ocean|Atlantic Ocean|Guadiana Basin|60683| |1| 
+985|M. da Ponte|Cobres|37.83|-7.85|C5|90|Portugal|Europe| |Guadiana| |701| |0|Area is less than 2000 km2
+986|V.V. de Rodao|Tejo|39.66|-7.67|C5|61|Portugal|Europe|Atlantic Ocean|Atlantic Ocean|Tejo Basin|59167|989|1| 
+987|M. dos Pachecos|Odelouca|37.22|-8.4|C5|59|Portugal|Europe| |Arade| |386| |0|Area is less than 2000 km2
+988|M. Da Gamitinha|Sado|38.05|-8.4|C5|28|Portugal|Europe|Atlantic Ocean|Atlantic Ocean|GHAAS 1503 Basin|2721| |1| 
+989|Almourol|Tejo|39.45|-8.37|C5|31|Portugal|Europe|Atlantic Ocean|Atlantic Ocean|Tejo Basin|67490| |1| 
+990|Zaragoza|Ebro|41.67|-0.9|C4|189|Spain|Europe|Mediterranean Sea|Mediterranean Sea|Ebro Basin|40434|735|1| 
+992|Castro daire|Paiva|40.88|-7.92|C4|450|Portugal|Europe| |Douro| |286| |0|Area is less than 2000 km2
+993|Villachica|Duero|41.5|-5.48|C4|636|Spain|Europe|Atlantic Ocean|Atlantic Ocean|Douro Basin|41856|994|1| 
+994|Regua|Douro|41.15|-7.68|C4|44|Portugal|Europe|Atlantic Ocean|Atlantic Ocean|Douro Basin|91491| |1| 
+995|Pedre Ribeiradio|Vouga|40.75|-8.28|C4|50|Portugal|Europe| |Atlantic Ocean| |928| |0|Area is less than 2000 km2
+996|Coimbra|Mondego|40.2|-8.42|C4|20|Portugal|Europe|Atlantic Ocean|Atlantic Ocean|GHAAS 2405 Basin|4929| |1| 
+997|Ponte de Canavezes|Tamega|41.18|-8.15|C4|180|Portugal|Europe| |Douro| |3180| |0|Second station in the same cell
+998|Foz do Mouro|Minho|42.07|-8.6|C4|9|Portugal|Europe|Atlantic Ocean|Atlantic Ocean|Minho Basin|15457| |1| 
+999|Leixlip|Liffey|53.32|-6.57|C3|21|Ireland|Europe| |Irish Sea| |1565| |0|Area is less than 2000 km2
+1000|Slane Castle|Boyne|53.7|-6.57|C3|14|Ireland|Europe|Atlantic Ocean|Irish Sea|GHAAS 1339 Basin|2695| |1| 
+1001|Ballyduff|Blackwater|52.15|-8.05|C3|7|Ireland|Europe| |Atlantic Ocean| |1440| |0|Area is less than 2000 km2
+1002|Killaloe|Shannon|52.8|-8.43|C3|32|Ireland|Europe|Atlantic Ocean|Atlantic Ocean|GHAAS 490 Basin|11690|1004|1| 
+1003|Ballyshannon|Enne|54.5|-8.2|C3|0|Ireland|Europe|Atlantic Ocean|Atlantic Ocean|GHAAS 1276 Basin|4375| |1| 
+1004|Galway|Corrib|53.27|-9.09|C3|0|Ireland|Europe|Atlantic Ocean|Atlantic Ocean|GHAAS 490 Basin|3114| |1| 
+1005|Ballina|Moy|54.1|-9.15|C3|3|Ireland|Europe|Atlantic Ocean|Atlantic Ocean|GHAAS 1797 Basin|2131| |1| 
+1006|Nongoa|Makona|8.5|-10.33|A4|325|Guinea|Africa|Atlantic Ocean|Atlantic Ocean|GHAAS 793 Basin|5745|1007|1| 
+1007|Moa Bridge|Moa|7.81|-11.16|A4|50|Sierra Leone|Africa|Atlantic Ocean|Atlantic Ocean|GHAAS 793 Basin|17150| |1| 
+1008|Palima|Bundoya|8.18|-11.46|A4|14|Sierra Leone|Africa| |Sewa| |361| |0|Area is less than 2000 km2
+1009|Jaiama Sawafe|Sewa|8.56|-11.26|A4|25|Sierra Leone|Africa|Atlantic Ocean|Atlantic Ocean|GHAAS 1177 Basin|6870| |1| 
+1010|Bumbuna|Seli|9.03|-11.75|A4|12|Sierra Leone|Africa| |Rokel| |3990| |0|Second station in the same cell
+1011|Kedougou|Gambia|12.55|-12.18|A3|102|Senegal|Africa|Atlantic Ocean|Atlantic Ocean|Gambia Basin|7550|1012|1| 
+1012|Mako|Gambia|12.81|-12.36|A3|75|Senegal|Africa|Atlantic Ocean|Atlantic Ocean|Gambia Basin|10450|1017|1| 
+1013|Diarha - Pont Routier|Diarha|12.61|-12.76|A3|47|Senegal|Africa| |Gambie| |760| |0|Area is less than 2000 km2
+1014|Niokolo-Koba - Pont Routier|Niokolo-Koba|13.06|-12.73|A3|48|Senegal|Africa| |Gambie| |3000| |0|Too small area
+1015|Kidira|Faleme|14.78|-12.21|A3|20|Senegal|Africa|Atlantic Ocean|Senegal|Senegal Basin|28900|70|1| 
+1016|Pt Telimele|Konkoure|10.86|-12.95|A3|154|Guinea|Africa|Atlantic Ocean|Atlantic Ocean|GHAAS 1105 Basin|10250| |1| 
+1017|Simenti|Gambia|13.03|-13.3|A3|10|Senegal|Africa|Atlantic Ocean|Atlantic Ocean|Gambia Basin|20500|1218|1| 
+1018|Wassadou-Amout|Gambia|13.35|-13.36|A3|5|Senegal|Africa| |Atlantic Ocean| |21200| |0|Second station in the same cell
+1019|Niaoule Tanou|Niaoule|13.48|-13.68|A3|10|Senegal|Africa| |Gambie| |1230| |0|Area is less than 2000 km2
+1020|Kolda|Casamance|12.88|-14.93|A3|2|Senegal|Africa|Atlantic Ocean|Atlantic Ocean|GHAAS 1341 Basin|3700| |1| 
+1024|Goyaves|Grande Riviere|16|-61|K6| |Guadeloupe|North America| | | | | |0|Not on the STN-30 Land mass
+1026|Mactaquac|Saint John|45.96|-66.83|K3|6|Canada|North America|Atlantic Ocean|Atlantic Ocean|Saint John Basin|39900| |1| 
+1040|Pte Pusmeo|Patia|1.7|-77.61|B2|402|Colombia|South America|Pacific Ocean|Pacific Ocean|GHAAS 939 Basin|13147| |1| 
+1042|El Puente|Yaque del Sur|18.68|-71.06|J6|300|Dominican Republic|North America| |Caribbean Sea| |1709| |0|Area is less than 2000 km2
+1043|Villa Nizao|Nizaito|18.02|-71.18|J6|122|Dominican Republic|North America| |Caribbean Sea| |166| |0|Area is less than 2000 km2
+1044|Palo Verde|Yaque del Norte|19.75|-71.07|J6|11|Dominican Republic|North America|Atlantic Ocean|Atlantic Ocean|GHAAS 1358 Basin|6718| |1| 
+1045|Pedro Santana|Artibonite|19.1|-71.68|J6|253|Dominican Republic|North America| |Caribbean Sea| |1029| |0|Area is less than 2000 km2
+1047|Calamar|Magdalena|10.26|-74.91|B1|1170|Colombia|South America|Atlantic Ocean|Caribbean Sea|Magdalena Basin|257438| |1| 
+1048|Fellowship|Rio Grande|17.99|-77.48|J6|30|Jamaica|North America| |Caribbean Sea| |215| |0|Not on the STN-30 Land mass
+1049|Spanish Town|Rio Cobre|18.05|-77.05|J6|30|Jamaica|North America| |Caribbean Sea| |518| |0|Area is less than 2000 km2
+1052|Green Island, N.Y.|Hudson|42.75|-73.68|J3|0|United States|North America|Atlantic Ocean|Atlantic Ocean|Hudson Basin|20953| |1| 
+1054|Hamelin|Arnaud|59.99|-71.9|J2|30|Canada|North America|Hudson Strait|Ungava Bay|Arnaud Basin|26900| |1| 
+1055|Baleine|Grande Riviere|54|-73|J2| |Canada|North America|Hudson Bay| |La Grande Basin| |312|1| 
+1056|Atalayita|La Villa|7.87|-80.54|I7|25|Panama|North America| |Gulf of Panama| |1000| |0|Not on the STN-30 Land mass
+1057|Interamericana|San Pablo|8.2|-81.25|I7|40|Panama|North America| |Pacific Ocean| |697| |0|Area is less than 2000 km2
+1061|Muelle de los Bueyes|Mico|12.07|-84.54|I6|30|Nicaragua|North America| |Escondido| |1613| |0|Area is less than 2000 km2
+1062|Copalar|Grande|12.9|-84.9|I6| |Nicaragua|North America|Atlantic Ocean|Caribbean Sea|Grande-Matagalpa Basin|7125| |1| 
+1063|San Pedro del Norte|Grande|13.05|-84.72|I6| |Nicaragua|North America|Atlantic Ocean|Caribbean Sea|Grande-Matagalpa Basin|15073| |1| 
+1064|Masapa|Tuma|13.1|-85.52|I6|220|Nicaragua|North America| |Grande| |1649| |0|Area is less than 2000 km2
+1065|Corriente Lira|Coco|13.54|-85.84|I6|292|Nicaragua|North America|Atlantic Ocean|Caribbean Sea|Coco Basin|6830| |1| 
+1067|Grande de San Miguel|Las Conchas|13.29|-88.39|I6|7|El Salvador|North America| |Pacific Ocean| |2238| |0|Second station in the same cell
+1068|Rodas|Damuji|22.36|-80.54|I5|52|Cuba|North America| |Caribbean Sea| |848| |0|Area is less than 2000 km2
+1072|Yuma, Arizona|Colorado|32.66|-114.65|F4| |United States|North America|Pacific Ocean| |Colorado (Arz) Basin| | |1| 
+1074|Limestone Rapids|Severn|55.38|-88.32|I2|50|Canada|North America|Hudson Bay|Hudson Bay|Severn Basin|94300| |1| 
+1075|La Hacahdura|Paz|13.74|-90.1|H6|30|El Salvador|North America|Pacific Ocean|Pacific Ocean|GHAAS 1857 Basin|2112| |1| 
+1076|Candelaria|Candelaria|18.18|-91.07|H6|42|Mexico|North America|Atlantic Ocean|Gulf of Mexico|GHAAS 546 Basin|9628| |1| 
+1077|Suchiate II|Suchiate|14.68|-92.19|H6|90|Mexico|North America| |Pacific Ocean| |1139| |0|Area is less than 2000 km2
+1078|Reforma|Grijalva|16.35|-93.23|H6|18|Mexico|North America|Atlantic Ocean|Gulf of Mexico|Grijalva Basin|37702|1079|1| 
+1079|Samaria|Rompido de Samaria|17.97|-93.29|H6|20|Mexico|North America|Atlantic Ocean|Gulf of Mexico|Grijalva Basin|37702| |1| 
+1080|Las Perlas|Cortzacoalcos|17.63|-94.87|H6|20|Mexico|North America|Atlantic Ocean|Gulf of Mexico|Papaloapan Basin|9224| |1| 
+1081|Las Cueuas II|Tehuantepec|16.43|-95.34|H6|60|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 1737 Basin|9364| |1| 
+1082|Papaloapan|Papaloapan|18.17|-96.08|H6|22|Mexico|North America|Atlantic Ocean|Gulf of Mexico|GHAAS 654 Basin|21419| |1| 
+1083|Cardel|La Antiqua|19.36|-96.37|H6|80|Mexico|North America|Atlantic Ocean|Gulf of Mexico|GHAAS 737 Basin|2234| |1| 
+1084|Martinez de la Torre|Bobos|20.7|-97.4|H5|153|Mexico|North America| |Gulf of Mexico| |1467| |0|Area is less than 2000 km2
+1085|Remolino|Tecolutla|20.4|-97.25|H5|32|Mexico|North America|Atlantic Ocean|Gulf of Mexico|GHAAS 2481 Basin|7172| |1| 
+1086|Paso de la Reyna|Verde|16.3|-97.59|H6|50|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 684 Basin|17617| |1| 
+1087|Las Juntas|Santa Catalina|16.7|-98.27|H6|110|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 1839 Basin|2514| |1| 
+1088|La Parota|Papagayo|16.93|-99.64|H6|134|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 1721 Basin|7067| |1| 
+1089|Poza Rica|Cazones|20.55|-97.48|H5|50|Mexico|North America| |Gulf of Mexico| |1600| |0|Area is less than 2000 km2
+1090|Alamo|Tuxpan|20.94|-97.67|H5|20|Mexico|North America| |Gulf of Mexico| |4341| |0|Incomplete Time Series
+1091|Matamoros|Bravo|25.9|-97.52|H5|12|Mexico|North America|Atlantic Ocean|Gulf of Mexico|Rio Grande Basin|459902| |1| 
+1094|Gods Lake|Gods River|54.84|-94.08|H2|180|Canada|North America|Hudson Bay|Hayes|Hayes Basin|25900| |1| 
+1096|Callejones|Coahuayana|18.8|-103.63|G6|25|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 607 Basin|6835|1241|1| 
+1097|Ojinaga|Conchos|29.57|-104.45|G5|850|Mexico|North America|Atlantic Ocean|Bravo River|Rio Grande Basin|71964|365|1| 
+1098|Las Gaviotas|Ameca|20.93|-105.14|G5|70|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 1421 Basin|9329| |1| 
+1099|Acaponeta|W Acaponeta|22.48|-105.35|G5|31|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 813 Basin|5092| |1| 
+1100|Ixpalino|Piaxtla|23.95|-106.59|G5|100|Mexico|North America| |Pacific Ocean| |6166| |0|Not on the STN-30 Land mass
+1101|Santa Cruz|San Lorenzo|24.48|-106.95|G5|18|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 858 Basin|8919| |1| 
+1102|Palos Blancos|Humaya|24.9|-107.38|G5|88|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 1167 Basin|11409| |1| 
+1103|Jaina|Sinaloa|25.9|-108.01|G5|120|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 606 Basin|8179| |1| 
+1104|San Miguel Zapotitlan|Fuerte|25.95|-109.05|G5|20|Mexico|North America|Pacific Ocean|Pacific Ocean|Fuerte Basin|34247| |1| 
+1105|El Novillo|Yaqui|28.94|-109.64|G5|480|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 235 Basin|57908| |1| 
+1106|Deer Creek|North Saskatchewan|53.51|-109.61|G2|510|Canada|North America|Hudson Bay|Saskatchewan River|Nelson Basin|57100|875|1| 
+1107|Carmen, Rosales, Pangasinan|Agno|15.88|120.58|K7|0|Philippines|Asia|Pacific Ocean|Lingayen Gulf|GHAAS 1849 Basin|2209| |1| 
+1108|Infanta, Quezon|Agusan|14|121|K7| |Philippines|Asia|Pacific Ocean| |GHAAS 1266 Basin| | |1| 
+1110|Usk|Skeena|54.57|-128.42|E2|100|Canada|North America|Pacific Ocean|Pacific Ocean|GHAAS 203 Basin|42200| |1| 
+1114|Coolibah Homestead|Victoria|-15.55|130.96|E4|40|Australia|Oceania|Indian Ocean|Joseph Bonaparte Gulf, Timor Sea|Victoria Basin|44900| |1| 
+1117|Maksita|Coppename|4.9|-56.12|D2|13|Suriname|South America|Atlantic Ocean|Atlantic Ocean|GHAAS 1426 Basin|12300| |1| 
+1118|Stondansie|Nickerie|5.1|-56.51|D2|8|Suriname|South America|Atlantic Ocean|Atlantic Ocean|GHAAS 1246 Basin|5160| |1| 
+1119|Mataway|Corantijn|5.8|-57.65|D2|9|Suriname|South America|Atlantic Ocean|Atlantic Ocean|Corantijn Basin|51600| |1| 
+1121|Kingoyi|Comba|-4.21|14.28|D5|300|Congo|Africa| |Kouilou| |90| |0|Area is less than 2000 km2
+1123|La Virginia|Cauca|3.97|-74.82|B2| |Colombia|South America|Atlantic Ocean| |Magdalena Basin| |447|1| 
+1124|Puente Santander|Magdalena|2|-75|B2| |Colombia|South America|Atlantic Ocean| |Amazon Basin| |514|1| 
+1125|Boqueron|Prado|3|-74|B2| |Colombia|South America|Atlantic Ocean| |Orinoco Basin| |1136|1| 
+1126|El Tablazo|Sogamoso|6.82|-73.08|B2| |Colombia|South America|Atlantic Ocean| |Magdalena Basin| |1047|1| 
+1127|San Gil|Fonce|5.97|-72.82|B2| |Colombia|South America|Atlantic Ocean| |Magdalena Basin| |1126|1| 
+1128|Maripa|Oyapock|3.81|-51.88|D2|103|Guyana|South America|Atlantic Ocean|Atlantic Ocean|Oyapock Basin|25100| |1| 
+1129|Puerto Salto|Rio Uruguay|-32.42|-58.2|D6| |Uruguay|South America|Atlantic Ocean| |Uruguay Basin| | |1| 
+1130|Pte Internacional|Arauca|7|-70|C2| |Venezuela|South America|Atlantic Ocean| |Orinoco Basin| |1136|1| 
+1131|Pie de Monte|Aricuaisa|9|-72|B2| |Venezuela|South America|Atlantic Ocean| |GHAAS 318 Basin| | |1| 
+1132|La Ferreira|Escalante|8|-71|B2| |Venezuela|South America|Atlantic Ocean| |Orinoco Basin| |489|1| 
+1133|El Carbon|Guasare|11|-72|B1| |Venezuela|South America| | | | | |1| 
+1134|Pte Masparro|Masparro|8|-70|C2| |Venezuela|South America|Atlantic Ocean| |Orinoco Basin| |489|1| 
+1135|La Corcovada|Neveri|10|-64|C1| |Venezuela|South America|Atlantic Ocean| |GHAAS 3147 Basin| | |1| 
+1136|Musinacio|Orinoco|7.98|-63.82|C2| |Venezuela|South America|Atlantic Ocean| |Orinoco Basin| | |1| 
+1137|Pte Uribante|Uribante|7|-72|B2| |Venezuela|South America|Atlantic Ocean| |Orinoco Basin| |489|1| 
+1138|Abapo|Grande|-18.85|-63.46|C4|500|Bolivia|South America|Atlantic Ocean|Amazonas|Amazon Basin|59000|504|1| 
+1141|Altamira|Xingu|-3.2|-52.21|D3| |Brazil|South America|Atlantic Ocean|Amazonas|Amazon Basin|446573| |1| 
+1142|Porto Nacional|Tocantins|-10.7|-48.43|E4| |Brazil|South America|Atlantic Ocean|Atlantic Ocean|Tocantins Basin|175359|1144|1| 
+1143|Conceicao do Araguaia|Araguaia|-8.28|-49.25|E3| |Brazil|South America|Atlantic Ocean|Tocantins|Tocantins Basin|320290|1144|1| 
+1144|Itupiranga|Tocantins|-5.13|-49.35|E3| |Brazil|South America|Atlantic Ocean|Atlantic Ocean|Tocantins Basin|727900| |1| 
+1145|Villa Montes|Pilcomayo|-18.85|-63.46|C4|340|Bolivia|South America| |Del Plata| |81506| |0|Second station in the same cell
+1146|Porto Formoso|Parnaiba|-3.43|-42.4|E3|20|Brazil|South America|Atlantic Ocean|Atlantic Ocean|Parnaiba Basin|282000| |1| 
+1147|Traipu|Sao Francisco|-9.96|-36.98|F3|40|Brazil|South America| |Atlantic Ocean| |622600| |0|Bogus Discharge
+1148|Tagachi|Atrato|6.21|-76.71|B2|580|Colombia|South America|Atlantic Ocean|Caribbean Sea|Atrato Basin|9432|1340|1| 
+1149|Ubala|Guavio|4.71|-73.53|B2|2570|Colombia|South America| |Meta| |1057| |0|Area is less than 2000 km2
+1150|La Capilla|Daule|-1.69|-79.99|B3|20|Ecuador|South America| |Guayas| |8690| |0|Second station in the same cell
+1151|San Rafael|Coca|-0.1|-77.57|B3|770|Ecuador|South America| |Napo-Amazonica| |3951| |0|second station in the same cell
+1152|D. J. Palmira|Paute|-2.55|-78.55|B3|1910|Ecuador|South America|Atlantic Ocean|Santiago - Amazonica|Amazon Basin|5162|514|1| 
+1153|Kamaria Falls|Cuyuni|6.42|-58.8|D2|12|Guyana|South America|Atlantic Ocean|Essequibo|Essequibo Basin|53400| |1| 
+1154|Langa Tabbetje|Marowijne|5|-54.4|D2|10|Suriname|South America|Atlantic Ocean|Atlantic Ocean|Maroni Basin|63700| |1| 
+1156|Birchbank|Columbia|49.18|-117.72|F3|410|Canada|North America|Pacific Ocean|Pacific Ocean|Columbia Basin|88100|275|1| 
+1159|El Ekhsase|Nile|29.71|31.26|F2|20|Egypt|Africa|Mediterranean Sea|Mediterranean Sea|Nile Basin| | |1| 
+1160|Assiut|Nile|27.18|31.1|F2|51|Egypt|Africa|Mediterranean Sea|Mediterranean Sea|Nile Basin| |1159|1| 
+1162|Nag Hammadi|Nile|26.21|32|F2|69|Egypt|Africa|Mediterranean Sea|Mediterranean Sea|Nile Basin| |1160|1| 
+1166|Esna|Nile|25.43|32.55|F2|80|Egypt|Africa|Mediterranean Sea|Mediterranean Sea|Nile Basin| |1162|1| 
+1167|Gaafra|Nile|24.31|32.9|F2|85|Egypt|Africa|Mediterranean Sea|Mediterranean Sea|Nile Basin| |1166|1| 
+1170|Centrale de Grand-Mere|Saint Maurice|46.62|-72.68|J3|99|Canada|North America|Atlantic Ocean|St. Lawrence River|St. Lawrence Basin|42200| |1| 
+1171|Natasquan|Natashquan|51.14|-61.62|K2|5|Canada|North America|Atlantic Ocean|Gulf of St. Lawrence|Natashquan Basin|11600|325|1| 
+1172|Amos|Harricana|48.6|-78.12|J3|300|Canada|North America|Hudson Bay|James Bay|Harricana Basin|3680| |1| 
+1173|Nemiscau|De Rupert|51.45|-76.87|J2|211|Canada|North America|Hudson Bay|James Bay|Rupert Basin|40900| |1| 
+1174|Gaoual|Koliba|11.75|-13.2|A3|100|Guinea|Africa|Atlantic Ocean|Atlantic Ocean|GHAAS 572 Basin|9749| |1| 
+1175|Molimo - Nthuse|Makhaleng|-29.43|27.9|E7|1945|Lesotho|Africa| |Sengu| |86| |0|Area is less than 2000 km2
+1176|Seaka|Senqu|-30.35|27.56|E8|1400|Lesotho|Africa|Atlantic Ocean|Orange|Orange Basin|19875|1453|1| 
+1177|Mohlokaqala|Caledon|-29|27.7|E7|1510|Lesotho|Africa|Atlantic Ocean|Orange|Orange Basin|5600|1458|1| 
+1178|Oxbow|Tsehlanyane|-28.72|28.62|E7|2620|Lesotho|Africa| |Senqu| |57| |0|Area is less than 2000 km2
+1179|Baila|St. John|7.06|-9.16|B4| |Liberia|Africa| |Atlantic Ocean| |575| |0|Area is less than 2000 km2
+1180|Tournouta - Bafu Bay|Sehnkwehn|5.3|-9.3|B4| |Liberia|Africa| |Atlantic Ocean| |761| |0|Not on the STN-30 Land mass
+1184|El Limon|Yuna|19.15|-69.82|K6|8|Dominican Republic|North America|Atlantic Ocean|Atlantic Ocean|GHAAS 3793 Basin|5130| |1| 
+1185|Sawolo|Cestos|6.43|-8.63|B4| |Liberia|Africa| |Atlantic Ocean| |683| |0|Area is less than 2000 km2
+1186|Dougomai|Lofa|8.2|-9.75|B4| |Liberia|Africa| |Atlantic Ocean| |236| |0|Area is less than 2000 km2
+1187|Gbarnga|Zor Creek|7.01|-9.48|B4| |Liberia|Africa| |St. John| |39| |0|Area is less than 2000 km2
+1188|Liwonde|Shire|-15.06|35.2|F6|470|Malawi|Africa|Indian Ocean|Zambezi|Zambezi Basin|130200|1455|1| 
+1189|Malapa|Linthipe|-13.72|33.84|F6|549|Malawi|Africa|Indian Ocean|Lake Malawi|Zambezi Basin|2930|1188|1| 
+1190|Chisewezo|South Rukuru|-12.11|33.42|F6|1204|Malawi|Africa| |Lake Malawi| |958| |0|Area is less than 2000 km2
+1191|Kayes|Senegal|14.51|-11.59|A3|20|Mali|Africa|Atlantic Ocean|Atlantic Ocean|Senegal Basin|157400|70|1| 
+1192|Bel Air|Riviere Seche|-20.25|57.74|n/a|65|Mauritius|Africa| |Riviere Seche - East| |39| |0|Area is less than 2000 km2
+1193|Pont Lardier|Deep River|-20.26|57.73|n/a|62|Mauritius|Africa| |Grand River South East| |29| |0|Area is less than 2000 km2
+1194|Beau Champ|Grande River South East|-20.27|57.76|n/a|38|Mauritius|Africa| |Indian Ocean| |163| |0|Area is less than 2000 km2
+1195|Riche en Eau|Riviere des Creoles|-20.38|57.64|n/a|130|Mauritius|Africa| |Indian Ocean| |54| |0|Area is less than 2000 km2
+1200|Fort Yukon, Alaska|Porcupine|66.98|-143.13|C1|158|United States|North America|Bering Sea|Yukon|Yukon Basin|76405|1203|1| 
+1201|Tanacross, Alaska|Tanana|63.39|-143.74|C1|454|United States|North America|Bering Sea|Yukon|Yukon Basin|22144|1202|1| 
+1202|Nenana, Alaska|Tanana|64.55|-149.18|C1|103|United States|North America|Bering Sea|Yukon|Yukon Basin|66304|1203|1| 
+1203|Ruby, Alaska|Yukon|64.74|-155.48|B1|45|United States|North America|Bering Sea|Bering Sea|Yukon Basin|670810|339|1| 
+1204|Hughes, Alaska|Koyukuk|66.3|-154.25|B1|76|United States|North America|Bering Sea|Yukon|Yukon Basin|48433|339|1| 
+1206|Beau Vallon|Riviere La Chaux|-20.41|57.69|n/a|9|Mauritius|Africa| |Indian Ocean| |59| |0|Area is less than 2000 km2
+1207|Madubula|Maputo|-26.78|32.6|F7|11|Mozambique|Africa|Indian Ocean|Mozambique Channel|Maputo Basin|28500| |1| 
+1208|Boane|Umbeluzi|-26.05|32.31|F7|8|Mozambique|Africa|Indian Ocean|Mozambique Channel|GHAAS 818 Basin|5400| |1| 
+1209|Chobela|Incomati|-25.01|32.73|F7|14|Mozambique|Africa|Indian Ocean|Mozambique Channel|Incomati Basin|37600| |1| 
+1210|Chokwe|Limpopo|-24.54|33.06|F7|23|Mozambique|Africa|Indian Ocean|Mozambique Channel|Limpopo Basin|342000| |1| 
+1211|Villafranca do Save|Save|-21.1|34.68|F7|20|Mozambique|Africa|Indian Ocean|Mozambique Channel|Save Basin|100885| |1| 
+1212|Bue-Maria|Pungue|-19.01|34.18|F6|60|Mozambique|Africa|Indian Ocean|Mozambique Channel|Pungue Basin|15046| |1| 
+1213|Matundo - Cais|Zambezi|-16.15|33.58|F6|117|Mozambique|Africa|Indian Ocean|Mozambique Channel|Zambezi Basin|940000| |1| 
+1214|Estaquinha|Buzi|-19.83|34|F6|35|Mozambique|Africa|Indian Ocean|Mozambique Channel|Buzi Basin|26314| |1| 
+1218|Wassadou Aval|Gambia|13.35|-13.38|A3|4|Senegal|Africa|Atlantic Ocean|Atlantic Ocean|Gambia Basin|33500|1220|1| 
+1220|GoulLoumbo|Gambia|13.46|-13.73|A3|-1|Senegal|Africa|Atlantic Ocean|Atlantic Ocean|Gambia Basin|42000| |1| 
+1221|Thiokoye - Pont  Routier|Thiokoye|-12.52|12.57|A3|113|Senegal|Africa| |Gambie| |950| |0|Not on the STN-30 Land mass
+1222|Dodo|Maboa|8.15|-11.15|A4|27|Sierra Leone|Africa| |Sewa| |57| |0|Area is less than 2000 km2
+1223|Matotoka|Pampana|8.66|-11.86|A4|9|Sierra Leone|Africa|Atlantic Ocean|Jong|GHAAS 1291 Basin|2407| |1| 
+1224|Badala|Seli|9.27|-11.68|A4|19|Sierra Leone|Africa| |Rokel| |2625| |0|Second station in the same cell
+1225|Khartoum|Blue Nile|15.61|32.55|E3|363|Sudan|Africa|Mediterranean Sea|Nile|Nile Basin|325000|76|1| 
+1226|Malakal|White Nile|9.58|31.62|F4|389|Sudan|Africa|Mediterranean Sea|Nile|Nile Basin|1080000|1524|1| 
+1227|K13|Mellegue|36.29|8.64|C1|327|Tunisia|Africa|Mediterranean Sea|Medjerda|Medjerda Basin|9000|734|1| 
+1229|Sidi Saad|Zeroud|35.38|9.71|C1|232|Tunisia|Africa|Mediterranean Sea|Lac Kalbia|Zeroud Basin|8575| |1| 
+1230|Kampala / Gulu Rd|Kafu|1.55|32.05|F4| |Uganda|Africa|Mediterranean Sea|Victoria Nile|Nile Basin|16150|1523|1| 
+1232|Mbalmayo|Nyong|3.51|11.5|D4|634|Cameroon|Africa|Atlantic Ocean|Gulf of Guinea|Nyong Basin|13555|1469|1| 
+1233|Ngoazik|Ntem|2.3|11.3|D4|500|Cameroon|Africa|Atlantic Ocean|Gulf of Guinea|Ntem Basin|18100| |1| 
+1234|Mamfe|Cross|5.75|9.31|C4|44|Cameroon|Africa|Atlantic Ocean|Gulf of Guinea|Cross Basin|6810| |1| 
+1235|Mozyr|Pripyat|51.98|29.23|F3|113|Byelarus|Europe|Black Sea|Black Sea|Dnieper Basin|101000|805|1| 
+1236|Shoshaj|Mati|41.6|20.01|F4|963|Albania|Europe| |Adriatic Sea| |646| |0|Area is less than 2000 km2
+1237|Paper|Shkumbin|41.05|19.95|E4|891|Albania|Europe| |Adriatic Sea| |1960| |0|Area is less than 2000 km2
+1238|Ura Vajgurere|Osumi|40.77|19.87|E4|852|Albania|Europe|Mediterranean Sea|Adriatic Sea|GHAAS 2044 Basin|2070| |1| 
+1240|Decin|Elbe|50.78|14.22|E3|120|Czech Republic|Europe|North Sea|North Sea|Elbe Basin|51104|759|1| 
+1241|Coliman|Armeria|18.94|-103.94|G6|38|Mexico|North America|Pacific Ocean|Pacific Ocean|GHAAS 607 Basin|9744| |1| 
+1243|D.S. Hindiya B.|Euphrates|33.13|44.16|C5|28|Iraq|Asia| |Persian Gulf| |274100| |0|Bogus Discharge
+1248|Mukdahan|Mekong|16.33|104.89|I7|124|Thailand|Asia|Pacific Ocean|South China Sea|Mekong Basin|391000| |1| 
+1249|Ust-Ulma|Selemdhza|51.95|129.12|K3|169|Russia|Asia|Pacific Ocean|Zeya|Amur Basin|67000|932|1| 
+1250|Novy Eropol|Anadyr|65.08|169|O2|44|Russia|Asia|Bering Sea|Bering Sea|GHAAS 60 Basin|47300| |1| 
+1251|Chabda|Maya|59.77|134.75|L3|150|Russia|Asia|Laptev Sea|Aldan|Lena Basin|165000|930|1| 
+1252|Chatly|Amu-Darya|42.28|59.7|D4|72|Uzbekistan|Asia|Aral Sea|Aral Sea|Amu-Darya Basin|450000| |1| 
+1253|Zyyi|Vasilikos|34.71|33.31|B5|429|Cyprus|Asia| |Mediterranean Sea| |151| |0|Area is less than 2000 km2
+1254|Jonchon|Zangzagang|40.66|126.45|K4|372|North Korea|Asia|Pacific Ocean|Amnokgang|GHAAS 1010 Basin|2192| |1| 
+1255|Songchon|Biryugang|39.27|126.22|K5|50|North Korea|Asia| |Taedonggang| |1878| |0|Area is less than 2000 km2
+1257|Baramula Br.|Jhelum|34.22|74.33|F5| |India|Asia|Indian Ocean|Trimab - Indus|Indus Basin|12494|831|1| 
+1258|Dundeli|Kalinadi|15.25|74.75|F7| |India|Asia| |Arabian Sea| |1393| |0|Area is less than 2000 km2
+1259|Babli|Godavari|18.86|77.81|F7|304|India|Asia|Indian Ocean|Bay of Bengal|Godavari Basin|55510|1260|1| 
+1260|Basar|Godavari|18.86|77.98|F7|299|India|Asia|Indian Ocean|Bay of Bengal|Godavari Basin|86660|1261|1| 
+1261|Mancherial|Godavari|18.83|79.45|F7|124|India|Asia|Indian Ocean|Bay of Bengal|Godavari Basin|102900|858|1| 
+1262|Bamni Br.|Wardha|19.8|79.36|F7|157|India|Asia|Indian Ocean|Bay of Bengal|Godavari Basin|46020|100|1| 
+1263|Grand Anicut (South)|Cauvery|10.83|78.83|F7|58|India|Asia|Indian Ocean|Bay of Bengal|Cauweri Basin|74004| |1| 
+1265|Glencourse|Kelani Ganga|6.97|80.18|G8|900|Sri Lanka|Asia| |Indian Ocean| |1463| |0|Not on the STN-30 Land mass
+1266|Agaliya|Gin Ganga|6.18|80.19|G8|0|Sri Lanka|Asia| |Indian Ocean| |681| |0|Not on the STN-30 Land mass
+1267|Manampitiya|Mahaweli Ganga|7.91|81.08|G8|31|Sri Lanka|Asia|Indian Ocean|Indian Ocean|GHAAS 5608 Basin|7343| |1| 
+1268|downstream of Pur River|Olenek|72.12|123.22|K1|0|Russia|Asia|Laptev Sea|Laptev Sea|Olenek Basin|198000| |1| 
+1272|Yadgiri|Bhima|16.81|76.95|F7|350|India|Asia|Indian Ocean|Bay of Bengal|Krishna Basin|69863|856|1| 
+1274|Sri Vai Kuntum|Tamiraparn|18|77|F7| |India|Asia|Indian Ocean| |Godavari Basin| |1260|1| 
+1275|Jerash Bridge|Zerqa|32|35|B5| |Jordan|Asia|Mediterranean Sea| |Jordan Basin| | |1| 
+1276|Tisza-palkonya|Tisza|47.66|20.78|F4| |Hungary|Europe|Black Sea|Danube|Danube Basin| |768|1| 
+1277|Pochino|Douro|41.06|-8.47|C4| |Portugal|Europe| | | | | |0|Bogus Discharge
+1278|Belver|Tejo|39.46|-8|C5| |Portugal|Europe|Atlantic Ocean|Atlantic Ocean|GHAAS 1228 Basin| | |1| 
+1281|Brook Shumny|Amguema|68.54|-178.3|Q2| |Russia|Asia| | | | | |0|Not on the STN-30 Land mass
+1282|Flampleu|Cavalla|7.25|-8.06|B4|326|Ivory Coast|Africa|Atlantic Ocean|Gulf of Guinea|GHAAS 1037 Basin|2470| |1| 
+1283|Tai|Cavalla|5.84|-7.4|B4|149|Ivory Coast|Africa|Atlantic Ocean|Gulf of Guinea|Cavally Basin|13750|1485|1| 
+1284|Semien|Sassandra|7.71|-7.06|B4|250|Ivory Coast|Africa|Atlantic Ocean|Gulf of Guinea|Sassandra Basin|29300|1486|1| 
+1285|Tiassale|Bandama|5.88|-4.81|B4|13|Ivory Coast|Africa|Atlantic Ocean|Gulf of Guinea|Bandama Basin|61850| |1| 
+1286|Bouafle|Marahoue|6.98|-5.75|B4|187|Ivory Coast|Africa|Atlantic Ocean|Bandama|Bandama Basin|19800|1288|1| 
+1287|Serebou|Comoe|7.93|-3.93|B4|160|Ivory Coast|Africa|Atlantic Ocean|Gulf of Guinea|Comoe Basin|48700|53|1| 
+1288|Brimbo|Bandama|6.29|-5.18|B4|29|Ivory Coast|Africa|Atlantic Ocean|Gulf of Guinea|Bandama Basin|27800|1285|1| 
+1291|Brizay Bridge|Sembrong|1|103|I8| |Malaysia|Asia| | | | | |0|Not on the STN-30 Land mass
+1293|Dusun Limai|Krian|5.55|100.47|I8| |Malaysia|Asia| | | | | |0|Not on the STN-30 Land mass
+1299|La Pipe|Grande River South East|-20.31|57.61|n/a| |Mauritius|Africa| | | |24| |0|Area is less than 2000 km2
+1300|Ain Timedrine|Sebou|33.75|-4.53|B1|645|Morocco|Africa|Atlantic Ocean|Atlantic Ocean|Sebou Basin|4392|68|1| 
+1301|Dechra el Oued|Oum el Rebia|32.69|-5.9|B1|591|Morocco|Africa|Atlantic Ocean|Oum el Rebia|Oum el Rebia Basin|3330| |1| 
+1302|Dar el Caid|Moulouya|34.24|-3.32|B1|325|Morocco|Africa|Mediterranean Sea|Moulouya|Moulouya Basin|24422| |1| 
+1303|M'Jara|Ouergha|34.59|-5.25|B1|85|Morocco|Africa|Atlantic Ocean|Sebou|Sebou Basin|6190| |1| 
+1304|Ait Ouchene|El Abid|32.25|-6.08|B1|1070|Morocco|Africa|Atlantic Ocean|Oum er Rebia|Oum el Rebia Basin|2350| |1| 
+1305|Lalla Chafia|Bou Regreg|33.7|-6.53|B1|180|Morocco|Africa|Atlantic Ocean|Bou Regreg|GHAAS 1261 Basin|3230| |1| 
+1306|Rusumo|Akagera|-2.37|30.78|F5|1290|Rwanda|Africa|Mediterranean Sea|Nile|Nile Basin|30200|786|1| 
+1307|Kanzenze|Nyabarongo|-2.06|30.11|F5|1338|Rwanda|Africa|Mediterranean Sea|Akagera|Nile Basin|14600|1306|1| 
+1308|Kigali|Nyabarongo|-1.99|29.99|E5|1352|Rwanda|Africa| |Akagera| |8900| |0|Second station in the same cell
+1316|Kamativi|Gwai|-18.36|27.05|E6| |Zimbabwe|Africa|Indian Ocean|Zambezi|Zambezi Basin|38600|1213|1| 
+1317|Ncema Dam|Ncema|-20.31|29.31|E7| |Zimbabwe|Africa| |Limpopo| |640| |0|Area is less than 2000 km2
+1318|Prince Edward Dam|Manyame|-17.98|31.06|F6| |Zimbabwe|Africa| |Zambezi| |793| |0|Area is less than 2000 km2
+1319|Mangura Mine Weir|Manyame|-16.95|30.35|F6| |Zimbabwe|Africa|Indian Ocean|Zambezi|Zambezi Basin|7900|1213|1| 
+1320|Lion's Den|Mazowe|-17.28|31.55|F6| |Zimbabwe|Africa|Indian Ocean|Zambezi|Zambezi Basin|3300|1213|1| 
+1321|Premier Estate|Mutare|-18.91|32.55|F6| |Zimbabwe|Africa| |Savi| |249| |0|Area is less than 2000 km2
+1322|Waterworks Weir|Umshagashi|-20.05|30.85|F7| |Zimbabwe|Africa| |Indian Ocean| |541| |0|Area is less than 2000 km2
+1323|Condo|Sabi|-19.21|32.01|F6| |Zimbabwe|Africa|Indian Ocean|Savi|Save Basin|11000|1211|1| 
+1324|Nyaruwa Flume|Nyabodi|-19.85|32.8|F6| |Zimbabwe|Africa| |Zambezi| |127| |0|Area is less than 2000 km2
+1327|Centrale n3|Aux Outardes|49.55|-68.71|K3|231|Canada|North America| |Gulf of St. Lawrence| |17900| |0|Short Record
+1328|Centrale n2|Manicouagan|49.33|-68.33|K3|61|Canada|North America| |Gulf of St. Lawrence| |45600| |0|Second station in the same cell
+1329|Alieste|Natashquan|50.41|-61.7|K2|43|Canada|North America| |Gulf of St. Lawrence| |15600| |0|Second station in the same cell
+1330|Breton|Du Petit-Mecatina|51.83|-60.11|K2|275|Canada|North America|Atlantic Ocean|Gulf of St. Lawrence|Petit Mecatina Basin|17100|327|1| 
+1331|Las Conchas|Grande de San Miguel|13.27|-88.41|I6|7|El Salvador|North America| |Pacific Ocean| |2350| |0|Second station in the same cell
+1333|Malacatan|Cabuz|14.86|-92|H6|360|Guatemala|North America| |Suchiate| |394| |0|Area is less than 2000 km2
+1334|Alotenango|Guacalate|14.48|-90.89|H6|1350|Guatemala|North America| |Achiguate| |328| |0|Area is less than 2000 km2
+1335|San Pedro Macton|San Pedro|17.25|-90.75|H6|60|Guatemala|North America|Atlantic Ocean|Usumacinta|Usumacinta Basin|10820| |1| 
+1336|San Pedro|San Pedro|21.96|105.15|G5|54|Mexico|North America|Pacific Ocean|Pacific Ocean|Hong Basin|25800| |1| 
+1338|Pte Lleras|Meta|4.11|-72.96|B2|173|Colombia|South America|Atlantic Ocean|Orinoco|Orinoco Basin| |1136|1| 
+1339|Penitas|San Juan|4.3|-77.21|B2|7|Colombia|South America|Pacific Ocean|Pacific Ocean|GHAAS 903 Basin| | |1| 
+1340|Bellavista|Atrato|6.56|-76.86|B2|12|Colombia|South America|Atlantic Ocean|Caribbean Sea|Atrato Basin| | |1| 
+1341|Pintadala|Cauca|5.73|-75.6|B2|560|Colombia|South America|Atlantic Ocean|Magdalena|Magdalena Basin| |1047|1| 
+1342|Paso Pereira|Negro|-32.41|-55.2|D6| |Uruguay|South America|Atlantic Ocean|Negro|Uruguay Basin|11773|512|1| 
+1343|Jilin|Songhua Jiang|43.83|126.53|K4| |China|Asia|Pacific Ocean|Songhua Jiang|Amur Basin|44100|924|1| 
+1344|Luanxian|Luan He|39.73|118.75|J5| |China|Asia|Pacific Ocean|Luan He|Luan He Basin|44100| |1| 
+1345|Guanting|Yonding|40.23|115.6|J4| |China|Asia|Pacific Ocean|Hai He|Hai Ho Basin|42500| |1| 
+1346|Zhangjiashan|Jing He|34.63|108.6|I5| |China|Asia|Pacific Ocean|Huang He|Huang He Basin|43200|901|1| 
+1347|Ankang|Han Jiang|32.68|109.01|I5| |China|Asia|Pacific Ocean|Chang Jiang|Chang Jiang Basin|41400|902|1| 
+1348|Heishiguan|Yiluo|34.71|112.93|J5| |China|Asia|Pacific Ocean|Huang He|Huang He Basin|18600| |1| 
+1349|Gongtan|Wu Jiang|28.9|108.35|I6| |China|Asia|Pacific Ocean|Chang Jiang|Chang Jiang Basin|58300|1350|1| 
+1350|Yichang|Chang Jiang|30.66|111.23|J5| |China|Asia|Pacific Ocean|Chang Jiang|Chang Jiang Basin|1010000|902|1| 
+1351|Jian|Gan Jiang|27.1|114.98|J6| |China|Asia|Pacific Ocean|Chang Jiang|Chang Jiang Basin|56200|903|1| 
+1352|Nanning|Yu Jiang|22.8|108.36|I6| |China|Asia|Pacific Ocean|Zhu Jiang / Pearl River|Zhujiang Basin|75500|898|1| 
+1353|Pol-e-Kaleh|Zayandeh|32.38|51.23|D5|1760|Iran|Asia|Continent|Central|GHAAS 74 Basin|5650|1355|1| 
+1355|Pol-e-Kahju|Zayandeh|32.63|51.68|D5|1570|Iran|Asia|Continent|Central|GHAAS 74 Basin|14320| |1| 
+1356|Hossein abad Jiroft|Halil|28.78|57.58|D6|920|Iran|Asia|Continent|Central|GHAAS 422 Basin|8420| |1| 
+1357|near Eliashiv|Alexander|32.36|34.9|B5|9|Israel|Asia| |Mediterranean Sea| |492| |0|Not on the STN-30 Land mass
+1358|near Gedera|Soreq|31.81|34.78|B5|38|Israel|Asia| |Mediterranean Sea| |492| |0|Area is less than 2000 km2
+1359|Surat Thani|Tapi|8.56|99.25|H8|4|Thailand|Asia|Pacific Ocean|Gulf of Siam|GHAAS 938 Basin|5200| |1| 
+1360|Trang|Trang|7.76|99.54|H8|0|Thailand|Asia| |Straits of Malacca| |1801| |0|Area is less than 2000 km2
+1364|Turice|Jizera|50.3|14.79|E3|175|Czech Republic|Europe|North Sea|Labe|Elbe Basin|2159|1240|1| 
+1365|Beroun|Berounka|49.96|14.08|E4|214|Czech Republic|Europe|North Sea|Labe|Elbe Basin|8284|1240|1| 
+1366|Nitrianska Streda|Nitra|48.51|18.16|E4|158|Slovakia|Europe|Black Sea|Danube|Danube Basin|2093|757|1| 
+1367|Banska Bystrica|Hron|48.73|19.13|E4|334|Slovakia|Europe| |Danube| |1766| |0|Area is less than 2000 km2
+1368|Versen|Ems|52.73|7.25|D3|7|Germany|Europe|North Sea|North Sea|GHAAS 694 Basin|8345| |1| 
+1369|Ponte de Vouzela|Vouga|40.73|-8.11|C4|140|Portugal|Europe| |Atlantic Ocean| |649| |0|Area is less than 2000 km2
+1370|Ponte de Yoncais|Mondego|40.54|-7.71|C4|330|Portugal|Europe| |Atlantic Ocean| |606| |0|Area is less than 2000 km2
+1371|Boat o Brig|Spey|57.51|-3.15|C3|43|United Kingdom|Europe|North Sea|North Sea|GHAAS 1314 Basin|2861| |1| 
+1372|Ballathie|Tay|56.49|-3.36|C3|26|United Kingdom|Europe|North Sea|North Sea|GHAAS 924 Basin|4587| |1| 
+1373|Norham|Tweed|55.71|-2.16|C3|4|United Kingdom|Europe|North Sea|North Sea|GHAAS 1531 Basin|4390| |1| 
+1374|Flint Mill|Wharfe|53.91|-1.35|C3|14|United Kingdom|Europe| |North Sea| |759| |0|Area is less than 2000 km2
+1375|Orton|Nene|52.56|-0.26|C3|3|United Kingdom|Europe| |North Sea| |1634| |0|Area is less than 2000 km2
+1376|Needham Mill|Waveney|52.35|1.29|D3|16|United Kingdom|Europe| |North Sea| |370| |0|Area is less than 2000 km2
+1377|Bedford|Ouse|52.14|-0.48|C3|25|United Kingdom|Europe| |North Sea| |1460| |0|Area is less than 2000 km2
+1378|Langham|Stour|51.96|0.93|D3|6|United Kingdom|Europe| |North Sea| |578| |0|Area is less than 2000 km2
+1379|Umberletgh|Taw|50.99|-3.97|C3|14|United Kingdom|Europe| |Atlantic Ocean| |826| |0|Area is less than 2000 km2
+1380|Bogojevo|Danube|45.53|19.02|E4|77|Serbia|Europe|Black Sea|Black Sea|Danube Basin|251593|772|1| 
+1381|Senta|Tisza|45.93|20.1|F4|74|Serbia|Europe|Black Sea|Danube|Danube Basin|140130|772|1| 
+1382|Ngaruawahia|Waikato|-37.68|175.15|G4|25|New Zealand|Oceania|Pacific Ocean|Tasman Sea|Waikato Basin|11395| |1| 
+1383|Paetawa|Wanganui|-39.76|175.15|G4|15|New Zealand|Oceania|Pacific Ocean|Tasman Sea|GHAAS 2522 Basin|6643| |1| 
+1384|Ambunti|Sepik|-4.22|142.15|D1|40|Papua New Guinea|Oceania|Pacific Ocean|Bismarck Sea|Sepik Basin|40922| |1| 
+1433|Grand Anicut (North)|Cauvery|12.62|76.1|F7| |India|Asia|Indian Ocean| |Cauweri Basin| |837|1| 
+1434|Dadin Kowa|Gongola|10.27|11.62|D3| |Nigeria|Africa|Atlantic Ocean| |Niger Basin| | |1| 
+1435|Jebba|Niger|9.13|4.85|C4| |Nigeria|Africa|Atlantic Ocean| |Niger Basin| | |1| 
+1436|San Augustin|Chixoy|14.96|-91|H6| |Guatemala|North America| | | | | |0|Bogus Discharge
+1437|Morales|Motagua|15.32|-88.93|I6| |Guatemala|North America|Atlantic Ocean| |Motagua Basin| | |1| 
+1438|El Porvenir|La Pasion|16|-90|I6| |Guatemala|North America|Atlantic Ocean| |Usumacinta Basin| |338|1| 
+1439|Las Torres|Chixoy|15.5|-90|I6| |Guatemala|North America| | | | | |0|Area is less then 2000 km2
+1440|Ourtzagh|Ouergha|35|-6|B1| |Morocco|Africa|Atlantic Ocean| |GHAAS 5301 Basin|4404| |1| 
+1442|Donga|Dowga|7.44|10.24|D4| |Nigeria|Africa|Atlantic Ocean| |Niger Basin| | |1| 
+1443|Quillagua|Loa|-21.83|-69.56|C5| |Chile|South America|Pacific Ocean| |GHAAS 755 Basin| | |1| 
+1444|Pte Carret|Santa|-9|-78|B3| |Peru|South America|Pacific Ocean| |Santa Basin| | |1| 
+1445|Pte Sullana|Chira|-4.65|-80.49|A3| |Peru|South America|Pacific Ocean| |GHAAS 980 Basin| | |1| 
+1447|Pte Carret|Ramis|-15.02|-70.22|B4| |Peru|South America|Continent| |GHAAS 682 Basin| | |1| 
+1451|Mandini|Tugela|-28.96|31.04|F7| |South Africa|Africa|Indian Ocean|Tugela|GHAAS 540 Basin|28920| |1| 
+1453|Aliwal North|Orange|-30.65|26.69|E8| |South Africa|Africa|Atlantic Ocean|Orange|Orange Basin|37075|1458|1| 
+1454|Bindura|Mazowe|-17.27|31.17|F6| |Zimbabwe|Africa|Indian Ocean| |Zambezi Basin|2360|1320|1| 
+1455|Chiromo|Mbewe|-16.5|35|F6| |Malawi|Africa|Indian Ocean| |Zambezi Basin|149500| |1| 
+1456|Loudima|Niari|-4.11|13.08|D5|105|Congo|Africa|Atlantic Ocean|Kouilou|Kouilou Basin|23385|943|1| 
+1457|Manyinga Road Bridge|Manyinga|-13.14|24.2|E6| |Zambia|Africa|Indian Ocean| |Zambezi Basin| |1535|1| 
+1458|Upington|Orange|-28.69|21.08|E7| |South Africa|Africa|Atlantic Ocean|Orange|Orange Basin|36456|1459|1| 
+1459|Vioolsdrif|Orange|-28.71|17.51|D7| |South Africa|Africa|Atlantic Ocean|Orange|Orange Basin|850530| |1| 
+1460|Staritsa|Volga|48.3|46|H4| |Russia|Asia| |Caspian Sea| | | |0|Bogus Discharge
+1461|Nakhon Pathom|Mekong|13.93|99.74|H7| |Thailand|Asia|Pacific Ocean|South China Sea|Mae Klong Basin| | |1| 
+1462|Madelena|Madelena|38.5|-28.5|n/a| |Azores|Oceania| | | | | |0|Not on the STN-30 Land mass
+1463|Colima|Lempa|13.7|-88.9|I6| |El Salvador|North America|Pacific Ocean| |GHAAS 1006 Basin| |333|1| 
+1464|Athieme|Mono|6.92|1.67| | |Benin|Africa|Atlantic Ocean|Mono|Mono Basin|21575| |1| 
+1465|Barou|Mekrou|12.35|2.73| |173|Benin|Africa|Atlantic Ocean|Niger|Niger Basin|10500|1513|1| 
+1466|Malanvilla|Niger|11.87|3.3| |155|Benin|Africa|Atlantic Ocean|Niger|Niger Basin|1000000|1435|1| 
+1467|Sagon|Oueme|7.17|2.43| | |Benin|Africa|Atlantic Ocean|Oueme|Oueme Basin|37980|1468|1| 
+1468|Bonou|Oueme|6.9|2.45| | |Benin|Africa|Atlantic Ocean|Oueme|Oueme Basin|46990| |1| 
+1469|Dehane|Nyong|3.57|10.12| |15|Cameroon|Africa|Atlantic Ocean|Gulf of Guinea|Nyong Basin|26400| |1| 
+1470|Rafai|Chinko|4.97|23.92| |507|Central African Republic|Africa|Atlantic Ocean|Congo|Zaire Basin|52500|1477|1| 
+1471|Zemio|Mbomou|5.03|25.15| | |Central African Republic|Africa|Atlantic Ocean|Congo|Zaire Basin|29300|1477|1| 
+1472|Bossele-Bali|M'Poko|4.53|18.47| | |Central African Republic|Africa|Atlantic Ocean|Congo|Zaire Basin|10800|10|1| 
+1473|Bossangoa|Ouham|6.47|17.45| | |Central African Republic|Africa|Continent|Chari|Chari Basin|22800|1476|1| 
+1474|Golongoso|Nahr Aouk|9|19.15| | |Central African Republic|Africa|Continent|Chari|Chari Basin|96000|42|1| 
+1475|Kembe|Kotto|4.6|21.92| |580|Central African Republic|Africa|Atlantic Ocean|Congo|Zaire Basin|78400|10|1| 
+1476|Batangafo|Ouham|7.3|18.28| | |Central African Republic|Africa|Continent|Chari|Chari Basin|44700|1484|1| 
+1477|Bangassou|M'Bomou|4.72|22.82| | |Central African Republic|Africa|Atlantic Ocean|Congo|Zaire Basin|115000|10|1| 
+1478|Bongor|Logone|10.27|15.42| |321|Chad|Africa|Continent|Chari|Chari Basin|73700|38|1| 
+1479|Am Timan|Bahr Azoum|11.03|20.28| | |Chad|Africa|Continent|Chari|Chari Basin|80000|1480|1| 
+1480|Bousso|Chari|10.48|16.72| |325|Chad|Africa|Continent|Chari|Chari Basin|450000|38|1| 
+1481|Moundou|Logone|8.53|16.07| |391|Chad|Africa| |Chari| |33970| |0|Bogus Discharge
+1482|Doba|Pende|8.65|16.83| | |Chad|Africa| |Chari| |14300| |0|Bogus Discharge
+1483|Lai|Logone|9.4|16.3| |350|Chad|Africa|Continent|Chari|Chari Basin|56700|1478|1| 
+1484|Moissala|Bahr Sala|8.33|17.77| |518|Chad|Africa|Continent|Chari|Chari Basin|67600|1480|1| 
+1485|Tate|Cavalla|4.38|-7.59| | |Ivory Coast|Africa|Atlantic Ocean|Cavalla|Cavally Basin|28800| |1| 
+1486|Soubre|Sassandra|5.76|-6.6| | |Ivory Coast|Africa|Atlantic Ocean|Gulf of Guinea|Sassandra Basin|62000| |1| 
+1487|Aswan Dam|Nile|23.96|32.9| | |Egypt|Africa|Mediterranean Sea|Mediterranean Sea|Nile Basin| |1167|1| 
+1488|Lastourville|Ogooue|-0.81|12.73| | |Gabon|Africa|Atlantic Ocean|Ogooue|Ogooue Basin|47700|1489|1| 
+1489|Booue|Ogooue|-0.1|11.94| | |Gabon|Africa|Atlantic Ocean|Ogooue|Ogooue Basin|129600|17|1| 
+1490|Loa-Loa|Ivindo|0.51|12.83| | |Gabon|Africa|Atlantic Ocean|Ogooue|Ogooue Basin|48500|1489|1| 
+1491|Ibanga|Nyanga|-2.76|10.72| | |Gabon|Africa|Atlantic Ocean|Nyanga|Nyanga Basin|20000| |1| 
+1492|Franceville|Ogooue|-1.64|13.53| | |Gabon|Africa|Atlantic Ocean|Ogooue|Ogooue Basin|8800|1488|1| 
+1493|Fougamaou|Ngounie|-1.22|10.59| | |Gabon|Africa|Atlantic Ocean|Ogooue|Ogooue Basin|22000|17|1| 
+1494|Bamboi|Black Volta|8.15|-2.03| | |Ghana|Africa|Atlantic Ocean|Volta|Volta Basin|134200|50|1| 
+1495|Yarugu|White Volta|10.98|-0.4| | |Ghana|Africa|Atlantic Ocean|Volta|Volta Basin|41550|50|1| 
+1496|Sabari|Oti|9.28|0.23| | |Ghana|Africa|Atlantic Ocean|Volta|Volta Basin|59550|50|1| 
+1497|Kouroussa|Niger|10.65|-9.88| | |Guinea|Africa|Atlantic Ocean|Niger|Niger Basin|18000|61|1| 
+1498|Ouaran|Tinkisso|11.37|-9.61| | |Guinea|Africa|Atlantic Ocean|Niger|Niger Basin|18700|61|1| 
+1499|Walker Bridge|Saint Paul|7.33|-9.53| | |Liberia|Africa|Atlantic Ocean|Saint Paul|GHAAS 1098 Basin|9760| |1| 
+1500|Ambodiroka|Betsiboka|-16.93|46.93| | |Madagascar|Africa|Indian Ocean|Betsiboka|Ikopa Basin|11800| |1| 
+1501|Ambilobe|Mahavavy Nord|-13.15|49.07| | |Madagascar|Africa|Indian Ocean|Mahavavy Nord|GHAAS 1380 Basin|3210| |1| 
+1502|Antisindra|Mananjary|-20.65|47.72| | |Madagascar|Africa|Indian Ocean|Mananjary|GHAAS 1157 Basin|2260| |1| 
+1503|Amboassary|Mandare|-25.03|46.38| | |Madagascar|Africa|Indian Ocean|Mandare|Mandare Basin|12435| |1| 
+1504|Banian|Mangoky|-21.9|44.02| | |Madagascar|Africa|Indian Ocean|Mangoky|Mangoky Basin|50000|59|1| 
+1505|Kirango aval|Niger|13.72|-6.05| | |Mali|Africa|Atlantic Ocean|Niger|Niger Basin|137000|63|1| 
+1506|Gouala|Sankarani|11.97|-8.23| | |Mali|Africa|Atlantic Ocean|Niger|Niger Basin|35300|61|1| 
+1507|Dioila|Baoule|12.52|-6.8| | |Mali|Africa|Atlantic Ocean|Niger|Niger Basin|32500|62|1| 
+1508|Ansongo|Niger|15.67|0.5| | |Mali|Africa|Atlantic Ocean|Niger|Niger Basin|566000|15|1| 
+1509|Oualia|Bakoye|13.78|-10.72| | |Mali|Africa|Atlantic Ocean|Senegal|Senegal Basin|84400|60|1| 
+1510|Dibia|Bafing|13.14|-10.48| | |Mali|Africa|Atlantic Ocean|Senegal|Senegal Basin|33000|60|1| 
+1511|Fadougou|Faleme|12.31|-11.23| | |Mali|Africa|Atlantic Ocean|Senegal|Senegal Basin|9300|1512|1| 
+1512|Gourbassi|Faleme|13.23|-11.38| | |Mali|Africa|Atlantic Ocean|Senegal|Senegal Basin|15000|1015|1| 
+1513|Gaya|Niger|11.88|3.4| | |Niger|Africa|Atlantic Ocean|Niger|Niger Basin|1000000|1466|1| 
+1514|Bagara Diffa|Komadougou|13.28|12.6| |298|Niger|Africa|Continent|Lake Chad|GHAAS 49 Basin|115000| |1| 
+1515|Oxenham Ranch|Limpopo|-22.95|27.96| | |South Africa|Africa|Indian Ocean|Limpopo|Limpopo Basin|98160|1542|1| 
+1516|Beitbrug|Limpopo|-22.22|29.99| | |South Africa|Africa| |Limpopo| |201000| |0|Second station in the same cell
+1517|De Hoop 65|Vaal|-28.52|24.6| | |South Africa|Africa|Atlantic Ocean|Orange|Orange Basin|121052|1458|1| 
+1518|Engelbrechtsdrift|Vaal|-26.82|28.06| | |South Africa|Africa|Atlantic Ocean|Orange|Orange Basin|38564|1517|1| 
+1519|Piggot's Bridge|Groot-Vis|-33.1|26.45| | |South Africa|Africa|Indian Ocean|Groot-Vis|Great Fish Basin|23067|1521|1| 
+1520|Aspoort|Doring|-32.34|19.54| | |South Africa|Africa|Atlantic Ocean|Doring|Olifants Basin|6903| |1| 
+1521|Outspan|Groot-Vis|-33.24|26.99| | |South Africa|Africa|Indian Ocean|Groot-Vis|Great Fish Basin|29745| |1| 
+1522|Kilo 3|Atbarah|17.7|33.97| | |Sudan|Africa|Mediterranean Sea|Nile|Nile Basin|69000|76|1| 
+1523|Mongalia|Bahr el Jabel|5.2|31.77| | |Sudan|Africa|Mediterranean Sea|Nile|Nile Basin|450000|1226|1| 
+1524|Jebel Aulia Dam|White Nile|15.23|32.5| | |Sudan|Africa|Mediterranean Sea|Nile|Nile Basin| |76|1| 
+1525|Bahi|Bubu|-5.97|35.3| |860|Tanzania|Africa|Indian Ocean|Bubu|Rufiji Basin|11400|1527|1| 
+1526|Stiegeler's Gorge|Rufiji|-7.8|37.92| |64|Tanzania|Africa|Indian Ocean|Rufiji|Rufiji Basin|158200| |1| 
+1527|Mtera|Great Ruaha|-7.92|36.98| |680|Tanzania|Africa|Indian Ocean|Rufiji|Rufiji Basin|67950|1526|1| 
+1528|Morogoro Rd.|Ruvu|-6.68|38.7| |15|Tanzania|Africa|Indian Ocean|Ruvu|GHAAS 1184 Basin|15190| |1| 
+1529|Mango|Oti|10.3|0.47| | |Togo|Africa|Atlantic Ocean|Volta|Volta Basin|35650|1496|1| 
+1530|Jebel Antra|Joumine|36.95|9.47| |130|Tunisia|Africa| |Lac Ichkeul| |235| |0|Area is less than 2000 km2
+1531|Ghardimaou|Mejerda|36.27|8.43| |192|Tunisia|Africa| |Mediterranean Sea| |1480| |0|Area is less than 2000 km2
+1534|Kinshasa|Zaire|-4.3|15.3| | |Zaire|Africa|Atlantic Ocean|Zaire|Zaire Basin|3475000| |1| 
+1535|Watopa Pontoon|Zambia|-14.02|23.6| |1075|Zambia|Africa|Indian Ocean|Kabompo|Zambezi Basin|65792|1213|1| 
+1536|Nduben|Kafue|-13.4|27.82| | |Zambia|Africa|Indian Ocean|Zambezi|Zambezi Basin|18726|1213|1| 
+1537|Masase|Lusiwasi|-13.22|31.03| | |Zambia|Africa| |Zambezi| |995| |0|Area is less than 2000 km2
+1538|Old Pontoon|Chambeshi|-10.95|31.07| |1200|Zambia|Africa|Atlantic Ocean|Congo|Zaire Basin|33792|1534|1| 
+1539|Chishimba Falls|Luombe|-10.12|30.92| | |Zambia|Africa|Atlantic Ocean|Congo|Zaire Basin|2549|1534|1| 
+1540|Nsama|Mwambeshi|-8.9|29.93| | |Zambia|Africa| |Congo| |699| |0|Area is less than 2000 km2
+1541|Tokwe Confluence|Lundi|-21.13|31.27| | |Zimbabwe|Africa|Indian Ocean|Sabi|Save Basin|23000|1211|1| 
+1542|Beitbridge Pumpstation|Limpopo|-22.22|29.98| | |Zimbabwe|Africa|Indian Ocean|Limpopo|Limpopo Basin|196000|1210|1| 
+1543|Dapola|Black Volta|10.57|-2.92| |228|Burkina Faso|Africa|Atlantic Ocean|Volta|Volta Basin|66540|1494|1| 
+1544|Yakala|White Volta|11.35|-0.7| | |Burkina Faso|Africa|Atlantic Ocean|Volta|Volta Basin|3300|50|1| 
+1545|Lugh Ganana|Jubba|3.56|42.32| | |Somalia|Africa|Indian Ocean|Jubba|Jubba Basin|179520| |1| 
+1546|Belet Uen|Shebele|4.78|45.2| | |Somalia|Africa|Indian Ocean|Shebele|Jubba Basin|211800|1547|1| 
+1547|Bulo Burti|Shebele|3.87|45.67| | |Somalia|Africa|Indian Ocean|Shebele|Jubba Basin|231000|1548|1| 
+1548|Mahaddei Uen|Shebele|3|45.53| | |Somalia|Africa|Indian Ocean|Shebele|Jubba Basin|255300|1549|1| 
+1549|Balad|Shebele|2.37|45.42| | |Somalia|Africa|Indian Ocean|Shebele|Jubba Basin|272700|1550|1| 
+1550|Afgoi|Shebele|2.17|45.09| | |Somalia|Africa|Indian Ocean|Shebele|Jubba Basin|278000| |1| 
