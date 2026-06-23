@@ -245,6 +245,41 @@ def plot_bulk_timeseries(df: pd.DataFrame) -> plt.Figure:
     return fig
 
 
+def _prepare_wave_spectra_df(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Prepare raw NDBC wave spectra data for plotting.
+
+    Converts CSV-style date columns (YYYY/MM/DD/hh or #YY variant) into a
+    datetime index and keeps only numeric frequency columns.
+    """
+    df = df.copy()
+
+    if {"YYYY", "MM", "DD", "hh"}.issubset(df.columns):
+        date_cols = ["YYYY", "MM", "DD", "hh"]
+        rename_map = {"YYYY": "year", "MM": "month", "DD": "day", "hh": "hour"}
+        if "mm" in df.columns:
+            date_cols.append("mm")
+            rename_map["mm"] = "minute"
+        df["datetime"] = pd.to_datetime(df[date_cols].rename(columns=rename_map))
+        df = df.drop(columns=date_cols)
+    elif {"#YY", "MM", "DD", "hh"}.issubset(df.columns):
+        date_cols = ["#YY", "MM", "DD", "hh"]
+        rename_map = {"#YY": "year", "MM": "month", "DD": "day", "hh": "hour"}
+        if "mm" in df.columns:
+            date_cols.append("mm")
+            rename_map["mm"] = "minute"
+        df["datetime"] = pd.to_datetime(df[date_cols].rename(columns=rename_map))
+        df = df.drop(columns=date_cols)
+
+    if "datetime" in df.columns:
+        df = df.set_index("datetime")
+    elif not isinstance(df.index, pd.DatetimeIndex):
+        df.index = pd.to_datetime(df.index)
+
+    freq_cols = df.columns[pd.to_numeric(df.columns, errors="coerce").notna()]
+    return df[freq_cols]
+
+
 def plot_yearly_averages(df: pd.DataFrame) -> plt.Figure:
     """
     Plot yearly wave spectra averages with overall average.
@@ -263,16 +298,13 @@ def plot_yearly_averages(df: pd.DataFrame) -> plt.Figure:
         Figure object containing the plot.
     """
 
+    df = _prepare_wave_spectra_df(df)
+
     # Create figure
     fig, ax = plt.subplots(figsize=(12, 8))
 
     # Create a common frequency grid (0.01 to 0.5 Hz with 100 points)
     common_freqs = np.linspace(0.01, 0.5, 100)
-
-    # Check if index is actually a DatetimeIndex
-    if not isinstance(df.index, pd.DatetimeIndex):
-        print("Warning: Index is not a DatetimeIndex. Converting...")
-        df.index = pd.to_datetime(df.index)
 
     # Convert column names to numeric frequencies
     orig_freqs = pd.to_numeric(df.columns)
@@ -329,6 +361,8 @@ def plot_seasonal_averages(df: pd.DataFrame) -> plt.Figure:
     plt.Figure
         Figure object containing the plot.
     """
+
+    df = _prepare_wave_spectra_df(df)
 
     # Create subplots for each season
     fig, axes = plt.subplots(2, 2, figsize=(15, 12))
@@ -402,6 +436,8 @@ def plot_monthly_averages(df: pd.DataFrame) -> plt.Figure:
     plt.Figure
         Figure object containing the plot.
     """
+
+    df = _prepare_wave_spectra_df(df)
 
     # Create a 4x3 grid for all 12 months
     fig, axes = plt.subplots(4, 3, figsize=(18, 16))
