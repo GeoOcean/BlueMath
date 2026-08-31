@@ -208,3 +208,41 @@ def plot_rbf_result(
 
     plt.tight_layout()
     plt.show()
+
+
+def plot_som_diagnostics(
+    distance_map: np.ndarray,
+    activation_response: np.ndarray,
+) -> None:
+    """Plot the SOM distance and activation maps side by side.
+
+    Parameters
+    ----------
+    distance_map : np.ndarray
+        Unified distance matrix. Large values indicate stronger separation
+        between neighbouring neurons.
+    activation_response : np.ndarray
+        Number of observations assigned to each neuron.
+    """
+
+    fig, axes = plt.subplots(1, 2, figsize=(13, 5), constrained_layout=True)
+
+    distance_image = axes[0].imshow(distance_map, cmap="viridis", origin="upper")
+    fig.colorbar(distance_image, ax=axes[0], label="Neighbour distance")
+    axes[0].set_title("SOM distance map")
+
+    activation_image = axes[1].imshow(
+        activation_response,
+        cmap="magma",
+        origin="upper",
+    )
+    fig.colorbar(activation_image, ax=axes[1], label="Assigned observations")
+    axes[1].set_title("Neuron activation")
+
+    for axis in axes:
+        axis.set_xlabel("SOM column")
+        axis.set_ylabel("SOM row")
+        axis.set_xticks(np.arange(distance_map.shape[1]))
+        axis.set_yticks(np.arange(distance_map.shape[0]))
+
+    plt.show()
