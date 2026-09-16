@@ -986,8 +986,8 @@ def plot_gauge_validation(
     var_label : str, optional
         Axis label, e.g. 'Hs (m)'.
     window : tuple, optional
-        (start, end) to show in the time-series panel. Defaults to the busiest
-        stretch of the record.
+        (start, end) to show in the time-series panel. Defaults to the 14-day
+        stretch with the most paired observations.
     axes : sequence of Axes, optional
         Two axes: scatter and time series. If None, a new figure is created.
 
@@ -1008,7 +1008,7 @@ def plot_gauge_validation(
 
     if axes is None:
         fig, axes_grid = plt.subplots(
-            1, 2, figsize=(13, 4.4),
+            1, 2, figsize=(13, 4.2),
             gridspec_kw={"width_ratios": [1, 2]}, layout="constrained",
         )
         axes = list(axes_grid)
@@ -1018,13 +1018,17 @@ def plot_gauge_validation(
             raise ValueError("Two axes are required: scatter and time series")
         fig = axes[0].get_figure()
 
-    # ── Scatter ──────────────────────────────────────────────────────────────
+    # ── Density scatter ───────────────────────────────────────────────────────
     ax = axes[0]
-    limit = float(max(paired.max()))
-    ax.scatter(
+    limit = float(max(paired.max())) * 1.05
+    hb = ax.hexbin(
         paired["observed"], paired["predicted"],
-        s=8, alpha=0.25, color=COLORS["primary"], linewidths=0,
+        gridsize=35, cmap="Blues", mincnt=1,
+        linewidths=0.2,
     )
+    cb = fig.colorbar(hb, ax=ax, pad=0.02, fraction=0.046)
+    cb.set_label("count", fontsize=8)
+    cb.outline.set_visible(False)
     ax.plot([0, limit], [0, limit], color=COLORS["muted"],
             linestyle=(0, (4, 3)), linewidth=1)
     ax.set_xlim(0, limit)
@@ -1040,33 +1044,38 @@ def plot_gauge_validation(
         f"RMSE = {np.sqrt((error ** 2).mean()):.3f}\n"
         f"bias = {error.mean():+.3f}"
     )
-    ax.text(0.05, 0.95, stats, transform=ax.transAxes, va="top", fontsize=9,
-            color=COLORS["muted"])
+    ax.text(0.04, 0.96, stats, transform=ax.transAxes, va="top", fontsize=9,
+            color=COLORS["muted"],
+            bbox=dict(boxstyle="round,pad=0.3", fc="white", ec="none", alpha=0.7))
 
     # ── Time series ──────────────────────────────────────────────────────────
     ax = axes[1]
     if window is None:
-        # The densest month of the record, so the panel shows a continuous run
-        # rather than isolated points scattered over years.
-        counts = paired.resample("30D").size()
+        # The 14-day window with the most paired observations.
+        counts = paired.resample("14D").size()
         start = counts.idxmax()
-        window = (start, start + pd.Timedelta(days=30))
+        window = (start, start + pd.Timedelta(days=14))
     shown = paired.loc[window[0]:window[1]]
 
-    # Break the line across gaps in the record: joining across a missing day
-    # would draw a straight segment that reads as data.
-    gaps = shown.index.to_series().diff() > pd.Timedelta(hours=2)
+    # Break the line across gaps larger than 4 h (data is 3-hourly at SWAN times).
+    gap_thresh = pd.Timedelta(hours=4)
+    gaps = shown.index.to_series().diff() > gap_thresh
     shown = shown.copy()
     shown[gaps.values] = np.nan
 
-    ax.plot(shown.index, shown["observed"], color=COLORS["ink"], linewidth=1.4,
-            marker="o", markersize=3, label="tide gauge")
-    ax.plot(shown.index, shown["predicted"], color=COLORS["selected"],
-            linewidth=1.4, marker="o", markersize=3, label="RBF")
+    # Observed: continuous line (hourly gauge → visually dense).
+    # Predicted: markers joined by thin lines (sparse SWAN times).
+    ax.plot(shown.index, shown["observed"],
+            color=COLORS["ink"], linewidth=1.5, label="tide gauge", zorder=3)
+    ax.plot(shown.index, shown["predicted"],
+            color=COLORS["selected"], linewidth=1.2,
+            marker="o", markersize=3.5, markeredgewidth=0,
+            label="RBF", zorder=4)
     ax.set_ylabel(var_label)
     ax.set_xlabel("")
-    ax.legend(loc="upper right")
+    ax.legend(loc="upper right", frameon=False)
     ax.tick_params(axis="x", rotation=25)
+    ax.set_xlim(shown.index[0], shown.index[-1])
 
     return fig
 
