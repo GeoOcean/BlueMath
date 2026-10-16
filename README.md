@@ -52,4 +52,4 @@ To facilitate the usage of all these examples, the [GeoOcean Group](https://geoo
 ## Acknowledgements
 
 "Proyecto PID2022-141181O-I00 financiado por MICIU/AEI/10.13039/501100011033 y por FEDER, UE"
-<img src="assets/hybay.jpg" alt="picture" width="800"/>
+<img src="assets/hybay.jpg" alt="picture" width="600"/>
