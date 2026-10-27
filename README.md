@@ -48,3 +48,8 @@ Since the workshop in 2020, more universities has been interested in collaborati
 ## Usage
 
 To facilitate the usage of all these examples, the [GeoOcean Group](https://geoocean.sci.unican.es/hyweb/) has built a Docker image with all the pre-compiled numercial models, and the required python libraries. This image, and all the information, can be found in [DockerHub](https://hub.docker.com/repository/docker/geoocean/rocky8/general).
+
+## Acknowledgements
+
+"Proyecto PID2022-141181O-I00 financiado por MICIU/AEI/10.13039/501100011033 y por FEDER, UE"
+<img src="assets/hybay.jpg" alt="picture" width="600"/>
